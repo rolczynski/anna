@@ -1,0 +1,78 @@
+{
+  "agent": "anna",
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "matcher": "Bash",
+        "hooks": [
+          {
+            "type": "prompt",
+            "prompt": "A Bash command needs a permission decision: $ARGUMENTS. Judge it by effect, not by command name. ALLOW if every part of it only navigates directories, reads files, or transforms text in a pipeline, e.g. cd, ls, find, cat, head, tail, grep, wc, diff, stat, date, echo, jq, sed -n, awk that only prints, sort, uniq, cut, tr, xargs over readers, and && chains composed solely of such parts, and any paths it reads sit under /Users/rafalrol/Projects, /tmp, /private/tmp, or /Users/rafalrol/.claude. Redirecting stdout or stderr to /dev/null is reading, not writing. ASK if anything in it creates, modifies, or deletes a file or directory (rm, mv, cp, mkdir, touch, chmod, sed -i, tee, > or >> to a real path), changes git or system state, installs anything, or touches the network. When genuinely unsure, ask."
+          }
+        ]
+      }
+    ]
+  },
+  "permissions": {
+    "allow": [
+      "Bash(cat *)",
+      "Bash(head *)",
+      "Bash(tail *)",
+      "Bash(ls)",
+      "Bash(ls *)",
+      "Bash(wc *)",
+      "Bash(echo *)",
+      "Bash(sed -n *)",
+      "Bash(stat *)",
+      "Bash(jq *)",
+      "Bash(awk *)",
+      "Bash(grep *)",
+      "Bash(find *)",
+      "Bash(sort *)",
+      "Bash(uniq *)",
+      "Bash(cut *)",
+      "Bash(tr *)",
+      "Bash(diff *)",
+      "Bash(date)",
+      "Bash(date *)",
+      "Bash(sleep *)",
+      "Bash(git status*)",
+      "Bash(git log*)",
+      "Bash(git diff*)",
+      "Bash(git show*)",
+      "Bash(git -C /Users/rafalrol/Projects/anna status*)",
+      "Bash(git -C /Users/rafalrol/Projects/anna log*)",
+      "Bash(git -C /Users/rafalrol/Projects/anna diff*)",
+      "Bash(git -C /Users/rafalrol/Projects/anna add *)",
+      "Bash(git -C /Users/rafalrol/Projects/anna commit *)",
+      "Bash(git -C /Users/rafalrol/Projects/private-notes status*)",
+      "Bash(git -C /Users/rafalrol/Projects/private-notes log*)",
+      "Bash(git -C /Users/rafalrol/Projects/private-notes diff*)",
+      "Bash(git -C /Users/rafalrol/Projects/private-notes add *)",
+      "Bash(git -C /Users/rafalrol/Projects/private-notes commit *)",
+      "Bash(git -C /Users/rafalrol/Projects/machine-learning log*)",
+      "Bash(git -C /Users/rafalrol/Projects/amazon log*)",
+      "Bash(python3 /Users/rafalrol/Projects/private-notes/agent/tools/widthcheck.py *)",
+      "Bash(mkdir *)",
+      "Bash(mv *)",
+      "Bash(cp *)",
+      "Bash(curl -s *)",
+      "Read(//Users/rafalrol/Projects/**)",
+      "Edit(//Users/rafalrol/Projects/anna/**)",
+      "Write(//Users/rafalrol/Projects/anna/**)",
+      "Edit(//Users/rafalrol/Projects/private-notes/docs/**)",
+      "Write(//Users/rafalrol/Projects/private-notes/docs/**)",
+      "Write(//tmp/**)",
+      "WebSearch",
+      "WebFetch"
+    ],
+    "deny": [
+      "Bash(git * push --force *)",
+      "Bash(git * push -f *)",
+      "Bash(git * reset --hard *)"
+    ],
+    "additionalDirectories": [
+      "/Users/rafalrol/Projects/private-notes"
+    ]
+  }
+}
