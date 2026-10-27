@@ -154,10 +154,12 @@ one to two million USD in three to five years, then investing and own initiative
 and renovated among them. Pay is the engine of that goal, a remote role at about 300k USD. Rafal
 has a company-building mindset, not an employee selling hours.
 
-No single place serves both forces. A company job serves capital and fails research, since what
-it calls research is usually something else. Honest research serves the peaks and fails capital,
-it pays little and asks for credentials Rafal does not have. Independent research serves the
-peaks slowly (working alone) and the capital not at all, with no peers and no label. The one
+No single place serves both forces. A company job serves capital, and in most companies outside
+the few real labs what it calls research is something else, so a research label is checked
+before it is believed. Honest research serves the peaks and fails capital, it pays little and
+asks for credentials Rafal does not have. Independent research, funded by himself, serves the
+capital not at all and carries no label, and it need not be alone, if he chose it he would do it
+with others, co-authors and communities, since peers can be built and the label cannot. The one
 arrangement that served both was a well-paid job, with half the time left for research. That
 half was his own investment in himself, since he does not believe that any employer invests in
 employees truly. Years beyond five, once the capital is built and the peaks climbed, lies a
