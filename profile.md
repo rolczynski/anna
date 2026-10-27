@@ -50,20 +50,35 @@ he is and why what he does matters, not because he has to keep to it at any pric
 
 #### Working days
 
-- A four-hour morning block and a three-hour afternoon block, five days a week
-- One thread per day, mixing threads within a day costs willpower and feels unpleasant. Switching
-  to a new thread is a ramp of about two hours before depth; continuing yesterday's takes about
-  fifteen minutes to recall, then straight into depth
-- The morning is the natural reset point, an afternoon second topic drains motivation; a forced
-  switch goes in the morning
-- Admin and shallow tasks are hard to start, no depth or pleasure on the horizon, only pain if
-  delayed, so they and anything else that is not the current thread drift until external pressure
-  or a deadline; the current deep thread always wins
-- None of this is a fault, it is structural and it is the method. Papers and new research
-  directions are the tops of mountains, and a peak is reached only by thinking the thing through,
-  which is what the single thread does. What he needs beside it is a complement, not a cure,
-  someone to carry the deadlines, the logistics and the drift so that the thread of the day can
-  stay the only thing that moves
+Two four-hour blocks, morning and afternoon, five days a week, and one thread per day, since
+mixing threads within a day costs willpower and feels unpleasant. A new thread is a ramp of about
+two hours before depth, yesterday's resumes in fifteen minutes. The morning is the natural reset
+point and a second topic in the afternoon drains motivation, so a forced switch, a change of
+thread that a deadline or an event imposes rather than his choice, goes in the morning, named the
+evening before. Admin and shallow tasks are hard to start, no depth or pleasure on the horizon,
+only pain if delayed.
+
+What is outside the current thread gets no attention at all, not less, so it drifts until
+external pressure or a deadline brings it in, whatever its importance. Papers and new research
+directions are the tops of mountains, reached only by thinking the thing through, building
+bottom up.
+
+#### Assistant help
+
+- What Rafal needs is an assistant, the complement that holds what the thread of the day does not
+- Someone to discuss priorities and options with, which thread and which question come next,
+  given the whole of his situation, his goals and the world around him
+- Someone to plan the execution and work on it in parallel, without supervision, since the
+  planning must be fully delegated, he does not know what he does not know and must rely on the
+  wider knowledge the assistant has; the tree sized, the level chosen, the intermediate steps
+  written, so the plan can tell him where he is, and simulations run on how it can work
+- Someone to evaluate progress along the way, tracking on its own initiative and not on his call,
+  how far the tree has run, and after, what the work produced, closing the loop, which parts of
+  the plan failed and why, the learnings reused so the next sessions are proposed better
+- Someone to propose changes to scope, the trim when the tree runs beyond the plan, the extension
+  when it is worth it, he decides
+- Someone to cover the logistics, the deadlines, the dates, the admin, everything that drifts
+  outside the thread
 
 #### Career direction
 
