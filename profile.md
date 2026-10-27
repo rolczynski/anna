@@ -154,7 +154,8 @@ work in.
 - Pay is the engine of that goal, a remote role at about 300k USD the mark, equity welcome on top
   of a salary and never instead of it
 - He is a company building expertise, not an employee selling hours; a job is a client that funds
-  the portfolio, and the research story around it is the wrapper, the compensation the content
+  the portfolio, and when it calls itself research that is the employer's story, the compensation
+  is what is real
 - The two pull apart. Companies pay, and research in companies is often all work disguised as
   scientist; honest research pays little and asks for credentials he does not have; independent
   research is possible near financial independence and has no peers and no label
