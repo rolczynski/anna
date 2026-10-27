@@ -130,10 +130,9 @@ is leaving Amazon, employed to Dec 31, 2026.
 
 - Depth over pace, month-long cycles and few pivots, the Resound shape, not quick patches; weekly
   pivots, bias for action and ad-hoc scope changes broke Amazon
-- Problems that compound across years, the general rule behind the ticket, and a job that leaves
-  no room for it fails
-- Mostly solo with LLMs, async written exchange with peers on general problems, occasional
-  presentations
+- Problems that compound across years, the general problem rather than a specific feature in a
+  complex system
+- Mostly solo with LLMs, async written exchange with peers, occasional presentations
 - Remote preferred, an onsite US role pays more in gross and less after costs, and leaves less
   time for his own expertise
 - Filter out leadership and management, fires and small problems
@@ -141,10 +140,9 @@ is leaving Amazon, employed to Dec 31, 2026.
   listener has the building blocks
 - Filter out evaluation or coordination roles disguised as "scientist", the title must match
   the work
-- Methods that feed into products over optimising customer metrics directly, a preference that
-  pay, depth or culture can outweigh
-- Since agents do the engineering few jobs are strictly boring, even Amazon became interesting
-  to work in, so the filters are about culture and pace, not about the task
+- Methods that build the core of products, not optimising customer features
+- Since agents do the engineering, even Amazon became interesting to work in, but the task must
+  be large enough, with a long horizon
 
 #### Career direction
 
