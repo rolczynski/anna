@@ -107,14 +107,15 @@ structures.
 
 #### Public footprint
 
-- The outside sees a fraction, a blog that reads as teaching and one old library, and places him
+- The outside sees a fraction, a blog that reads as teaching and one old library, and places Rafal
   below what he knows
 - behindml.com, eight technical blog posts, May to Dec 2024, full mathematical derivations, about
   75 visitors a month
-- The ABSA repo, 583 GitHub stars, more than 2M HuggingFace downloads, five years old and
-  outdated, the one artifact with reach, in a field he left
-- The foundations are private, the research notes of 2026, 254 hours and 6,828 lines across
-  papers and domains, connections that exist in no single source
+- One GitHub repo, 583 GitHub stars, 2M HuggingFace downloads, five years old and
+  outdated
+- The foundations are private, six years of research and background notes since Nov 2020, 62
+  documents and about 16,000 lines, 254 hours and 6,828 lines of them in 2026, connections across
+  papers and domains that exist in no single source
 - No peak yet, by design, the foundations came first and the peak was not attempted, not missed
 - A peak would be a paper or a result the field can cite, and choosing one is the next stage
 
