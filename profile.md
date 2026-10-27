@@ -107,15 +107,16 @@ structures.
 
 #### Public footprint
 
+- What is public is a fraction of the work and reads as teaching, the blog and one library, while
+  the foundations, the research notes, stay private
+- In research only peaks count, and there is none yet, by design so far
 - behindml.com, eight technical blog posts, May to Dec 2024, full mathematical derivations, about
-  75 visitors a month, quality content with no distribution strategy; on Oct 26 he wants to rebuild
-  it with agents to ease the work
-- The ABSA repo, 583 GitHub stars, more than 2M HuggingFace downloads, outdated, five years old
-- The blog posts demonstrate teaching but do not count as research output in hiring
-- Not published: research docs across papers and domains, connections that exist in no single
-  source; teaching arcs that make complex concepts vivid; first-principles derivations with
-  structural understanding; 254 hours of research in 2026, 6,828 lines of dense material, no
-  publication step exists
+  75 visitors a month, teaching that does not count as research output in hiring
+- The ABSA repo, 583 GitHub stars, more than 2M HuggingFace downloads, five years old and
+  outdated, the one artifact with reach
+- Private, the research of 2026, 254 hours and 6,828 lines across papers and domains, derivations
+  and connections that exist in no single source, foundation work by intent, the peak not yet
+  attempted rather than missed
 
 #### Position today
 
