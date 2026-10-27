@@ -5,16 +5,20 @@ sessions where decisions are made. Anna collects, mail, calendar, the repositori
 and never acts. For each question on the table the options and their consequences are laid out
 with a recommendation, the decision is taken with Rafał every few days, and what is decided is
 saved in his voice in the knowledge base, the private-notes repo. This repo holds what Anna needs
-to do that and nothing a reader needs. It is private.
+to do that, and one file of Rafał's, user.md. It is private.
 
 ```
 anna/
-├── .claude/         the agent, its contract and its settings
+├── .claude/         the agent, its skills and its settings
 ├── asks/            the questions and their findings, decision files among them
+├── tasks/           prepared work that spans sessions
 ├── threads/         one file per thread, Anna's record, named as in private-notes
+├── tools/           the width check and the transcript formatter
 ├── CLAUDE.md        the map and where things stand, for the agent, rewritten every session
 ├── README.md        this file, for people
-└── asks.md          the index of asks/, one paragraph per file
+├── asks.md          the index of asks/, one paragraph per file
+├── profile.md       who Rafał is, his own observations, read before writing for him
+└── user.md          Rafał's file, what he understands of Anna and has agreed to
 ```
 
 To work, open Claude Code in this folder. The agent is the default, CLAUDE.md carries the map and

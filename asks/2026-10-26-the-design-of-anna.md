@@ -1,7 +1,7 @@
 # Decision — the design of Anna
 
-Date: 2026-10-26. Status: to supervise, bullets for the owner to cut; on his word the paragraph
-goes into docs/anna.md in private-notes and this file is the record behind it.
+Date: 2026-10-26. Status: to supervise, bullets for the owner to cut; the design stands in user.md
+as his, prose on his word, and this file is the record behind it.
 
 ## The question
 

@@ -11,5 +11,5 @@ the question of Oct 26 in the private-notes session: a separate repo for the ass
 private-notes as the knowledge base, two modes, a collector that records and never acts and a
 planner every third day, the decision file as the unit of work, what goes where, which channels
 in and out, the cadence, the name. The assumptions, the options considered and the direction
-stand as bullets for the owner to cut; on his word the paragraph goes into a new thread,
-docs/anna.md in private-notes. Open: the owner's cuts, then the first version in a week.
+stand as bullets for the owner to cut, and the same design stands as bullets in user.md, his
+file, where it becomes prose on his word. Open: the owner's cuts, then the first version in a week.
