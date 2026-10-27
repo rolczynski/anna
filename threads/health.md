@@ -20,8 +20,7 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
 
 ## Assumptions to check
 
-- The Oct 1 e-prescriptions are still valid to collect, 30 days from issue unless marked for a
-  year; if not, a new prescription is needed before any test
+- None saved yet
 
 ## Decisions
 
