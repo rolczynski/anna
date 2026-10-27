@@ -4,7 +4,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 
 ---
 
-#### Who
+#### Professional identity
 
 - Bridges research and engineering, derives from first principles and ships to millions
 - Seven years in audio and speech ML across production systems and frontier research
@@ -26,7 +26,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 - The knowledge inventory is machine-learning/agent/index.md
 - Contacts: rafal.rolczynski@gmail.com, linkedin.com/in/rafal-rolczynski, behindml.com
 
-#### Mind
+#### Thinking patterns
 
 - Autism spectrum criteria met, ACIA and NURT, Sep 2026, and ADHD confirmed, DIVA-5, Aug 2026,
   both at psychologist level; the psychiatrist confirmed both diagnoses on Oct 1, 2026. The AQ
@@ -54,7 +54,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 - The goal is structural understanding, which concepts exist, how they connect, where the
   boundaries are
 
-#### Days
+#### Working days
 
 - A four-hour morning block and a three-hour afternoon block, five days a week
 - One thread per day, mixing threads within a day costs willpower and feels unpleasant
@@ -74,7 +74,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
   which is what the single thread does. Anna's screen is the complement, not the cure, it holds the
   drift and the deadlines so that the thread of the day can stay the only thing that moves
 
-#### Direction
+#### Career direction
 
 - Near term, two to three years: a research role that allows deep work, plus investment income.
   The number was about 200k; on Oct 26, 2026 the open comparison is a remote role at about 250k
@@ -100,7 +100,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
   more abstract and exploratory work becomes accessible as credentials and leverage grow; the big
   corp label has value with diminishing returns, a time-limited brand play if entering one
 
-#### Position
+#### Position today
 
 - The portfolio is about 2.27 million PLN in Oct 2026, an earlier count 2.15 with real estate at
   1.29 and stocks at 0.82, near financial independence; the target is a third each, companies,
@@ -115,7 +115,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 - Leaving Amazon on his own letter, the Polly project to Nov 13, notice Nov 16, garden leave, last
   day Dec 31, 2026; on sick leave since Feb 2026
 
-#### Visibility
+#### Public footprint
 
 - behindml.com, eight technical blog posts, May to Dec 2024, full mathematical derivations, about
   75 visitors a month, quality content with no distribution strategy; on Oct 26 he wants to rebuild
@@ -127,7 +127,7 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
   structural understanding; 254 hours of research in 2026, 6,828 lines of dense material, no
   publication step exists
 
-#### Record
+#### Work history
 
 - Amazon AGI, Apr 2025 to Dec 2026: Applied Scientist L5 on Ermis 18B conversational TTS, the
   Thunderball team; evaluation coordination, WER metrics, hallucination detection, i18n scaling
