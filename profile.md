@@ -84,33 +84,26 @@ everything that drifts outside the thread.
 
 #### Work history
 
-- Amazon AGI, Apr 2025 to Dec 2026, Applied Scientist L5 on Ermis 18B conversational TTS, the
-  Thunderball team
-- The work, evaluation coordination, WER metrics, hallucination detection, i18n scaling across 17
-  languages, stability experiments, reference leakage solved via summed speaker embeddings
-- Pay about 290k PLN net a year at full salary, about 74k USD at the Oct 2026 rate
-- Weekly pivots and ad-hoc scope changes prevented deep work, and publication was confirmed
+- Amazon AGI, Apr 2025 to Dec 2026, Applied Scientist L5 on Ermis 18B conversational TTS
+- The work, controllability, SFT/DPO, evaluations, metric design, stability experiments
+- Pay 120k USD a year, net 74k USD
+- Weekly pivots and ad-hoc scope changes prevented deep work, and publication was almost
   impossible
 - A coaching plan after seven months of mismatch triggered the exit, sick leave Feb to Aug 2026,
-  back since Aug 15 with adjustments, then his own letter
-- Since Oct 2026 the Polly caption control project, handed over Nov 13
-- The interview line for why leaving, "I design stability experiments on an 18B model, I want to
-  train models, not coordinate their evaluation"
+  back since Aug 15 with adjustments, leaving on his own decision, employed to Dec 31
 - Mirelo.ai, Jul 2024 to Mar 2025, freelance, seven months, mostly music generation, the main
   contributions the latent diffusion models and the RQ-Transformer
-- Pay about 55k EUR net
-- Offered 70k EUR in Berlin plus 0.4% equity, expected four-year value about 627k USD, and left
-  for Amazon's brand, a bet on door-opening power over equity
-- Resound, 2020 to 2024, founding research engineer, the whole audio ML platform built from
-  scratch, solo, shipped to millions
+- Offered 70k EUR in Berlin, paid about 55k EUR net, left for Amazon's brand
+- Resound, 2020 to 2024, founding research engineer on a podcast editing platform, the ML almost a
+  solo project, the software engineers and the product a wrapper around the ML service, which he
+  built from scratch and shipped to millions
 - Four years of sustained deep work in month-long project cycles, the ideal environment
-- Pay about 160k USD net the last year, a US contract
+- Pay 200k USD, net 170k USD the last year, a US contract
 - Early career, 2016 to 2020, Scalac with the ABSA library built solo, Sigmoidal with short ML
-  projects, HCI Lab with end-to-end ASR for Polish with Prof Marasek, iHouse as a software
-  engineer
+  projects, PJAIT end-to-end ASR for Polish with Prof Marasek, iHouse as a software engineer
 - MSc Computer Science, PJAIT 2018, thesis on synthetic TTS data for ASR across languages, and
   MSc Civil Engineering, Gdańsk University of Technology 2017, numerical optimisation of bridge
-  structures, the arc civil engineering, self-taught ML, ASR research, production ML
+  structures
 
 #### Public footprint
 
