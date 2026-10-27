@@ -142,26 +142,22 @@ everything that drifts outside the thread.
 #### Career direction
 
 - Success is intellectual respect from qualified peers who engage with the ideas at depth
-- The knowledge gain is the primary reward, publications package what is learned, not the other
-  way around
 - Publications are the artifact form, lasting, public, reaching a broader audience
 - Near term, two to three years, a research role that allows deep work, plus investment income
 - Long term, a board member or advisor role leveraging accumulated expertise, plus investments
-- Ideal work is mostly solo with LLMs, deriving, building maps, exploring theory, running
-  experiments, with some sessions dedicated to packaging into papers
+- Ideal work is mostly solo with LLMs, experiments included, with some sessions dedicated to
+  packaging into papers
 - Specific company problems are fine as long as the pace allows depth, not a culture of quick
   patches
 - General principles even on specific problems, what matters in ten years
 - Exchange with peers is async and written, on general problems, with occasional presentations
 - Company alignment is ideal, side research is acceptable if the role pays and does not drain
-- Filter out leadership and management, managing fires and small problems is structurally wrong
-  for monofocus
+- Filter out leadership and management, fires and small problems
 - Filter out teaching to unprepared audiences, gap-filling drains, it works only when the
   listener has the building blocks
 - Filter out evaluation or coordination roles disguised as "scientist", the title must match
   the work
-- Filter out bazaar culture, weekly pivots, bias for action, ad-hoc scope changes, incompatible
-  with monofocus
+- Filter out bazaar culture, weekly pivots, bias for action, ad-hoc scope changes
 - Prefers methods and research that feed into products over optimising customer metrics directly
 - More abstract and exploratory work becomes accessible as credentials and leverage grow
 - The big corp label has value with diminishing returns, a time-limited brand play if entering one
