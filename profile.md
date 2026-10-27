@@ -82,57 +82,6 @@ propose changes to scope, the trim when the tree runs beyond the plan, the exten
 worth it, he decides. And someone to cover the logistics, the deadlines, the dates, the admin,
 everything that drifts outside the thread.
 
-#### Career direction
-
-- Near term, two to three years: a research role that allows deep work, plus investment income.
-  The number was about 200k; on Oct 26, 2026 the open comparison is a remote role at about 250k
-  against about 400k in the US with relocation, and the net of the two is the question
-- Long term: a board member or advisor role leveraging accumulated expertise, plus investments.
-  Since Oct 26 open source stands beside it as "the biggest return, the priority toward a million",
-  a conviction of a few days, its mechanism not yet stated, the first decision file to audit
-- Success is intellectual respect from qualified peers who engage with the ideas at depth
-- Publications are the artifact form, lasting, public, reaching a broader audience; the knowledge
-  gain is the primary reward, publications package what is learned, not the other way around
-- Ideal work is mostly solo with LLMs, deriving, building maps, exploring theory, running
-  experiments; specific company problems are fine as long as the pace allows depth, not a
-  band-tape culture; some sessions dedicated to packaging into papers; general principles even
-  when working on specific problems, what matters in ten years; async written exchange with peers
-  on general problems, occasional presentations; company alignment is ideal, side research is
-  acceptable if the role pays and does not drain
-- Roles to filter out: leadership and management, managing fires and small problems is
-  structurally wrong for monofocus; teaching to unprepared audiences, gap-filling drains, it works
-  only when the listener has the building blocks; evaluation or coordination roles disguised as
-  "scientist", the title must match the work; bazaar culture, weekly pivots, bias for action,
-  ad-hoc scope changes, incompatible with monofocus
-- Prefers methods and research that feed into products over optimising customer metrics directly;
-  more abstract and exploratory work becomes accessible as credentials and leverage grow; the big
-  corp label has value with diminishing returns, a time-limited brand play if entering one
-
-#### Position today
-
-- The portfolio is 2.27 million PLN as of Oct 10, 2026, real estate 1.29, stocks 0.90, cash 0.08,
-  near financial independence
-- Rental income of 5,400 PLN a month covers about 54% of living costs of 10,000 a month, the rest
-  goes from cash savings
-- Based in Gdańsk, Poland; prefers remote, would relocate for the right role; needs visa
-  sponsorship for the US, remote EU is the low-friction path
-- A baby is planned, and a US move is easier in the coming months
-  than years
-- Leaving Amazon on his own letter, employed to Dec 31, 2026, the Polly project to Nov 13, notice
-  Nov 16, garden leave after
-
-#### Public footprint
-
-- behindml.com, eight technical blog posts, May to Dec 2024, full mathematical derivations, about
-  75 visitors a month, quality content with no distribution strategy; on Oct 26 he wants to rebuild
-  it with agents to ease the work
-- The ABSA repo, 583 GitHub stars, more than 2M HuggingFace downloads, outdated, five years old
-- The blog posts demonstrate teaching but do not count as research output in hiring
-- Not published: research docs across papers and domains, connections that exist in no single
-  source; teaching arcs that make complex concepts vivid; first-principles derivations with
-  structural understanding; 254 hours of research in 2026, 6,828 lines of dense material, no
-  publication step exists
-
 #### Work history
 
 - Amazon AGI, Apr 2025 to Dec 2026: Applied Scientist L5 on Ermis 18B conversational TTS, the
@@ -165,3 +114,54 @@ everything that drifts outside the thread.
 - MSc Computer Science, PJAIT 2018, thesis on synthetic TTS data for ASR across languages; MSc
   Civil Engineering, Gdańsk University of Technology 2017, numerical optimisation of bridge
   structures; the transition civil engineering, self-taught ML, ASR research, production ML
+
+#### Public footprint
+
+- behindml.com, eight technical blog posts, May to Dec 2024, full mathematical derivations, about
+  75 visitors a month, quality content with no distribution strategy; on Oct 26 he wants to rebuild
+  it with agents to ease the work
+- The ABSA repo, 583 GitHub stars, more than 2M HuggingFace downloads, outdated, five years old
+- The blog posts demonstrate teaching but do not count as research output in hiring
+- Not published: research docs across papers and domains, connections that exist in no single
+  source; teaching arcs that make complex concepts vivid; first-principles derivations with
+  structural understanding; 254 hours of research in 2026, 6,828 lines of dense material, no
+  publication step exists
+
+#### Position today
+
+- The portfolio is 2.27 million PLN as of Oct 10, 2026, real estate 1.29, stocks 0.90, cash 0.08,
+  near financial independence
+- Rental income of 5,400 PLN a month covers about 54% of living costs of 10,000 a month, the rest
+  goes from cash savings
+- Based in Gdańsk, Poland; prefers remote, would relocate for the right role; needs visa
+  sponsorship for the US, remote EU is the low-friction path
+- A baby is planned, and a US move is easier in the coming months than years
+- Leaving Amazon on his own letter, employed to Dec 31, 2026, the Polly project to Nov 13, notice
+  Nov 16, garden leave after
+
+#### Career direction
+
+- Success is intellectual respect from qualified peers who engage with the ideas at depth
+- The knowledge gain is the primary reward, publications package what is learned, not the other
+  way around
+- Publications are the artifact form, lasting, public, reaching a broader audience
+- Near term, two to three years, a research role that allows deep work, plus investment income
+- Long term, a board member or advisor role leveraging accumulated expertise, plus investments
+- Ideal work is mostly solo with LLMs, deriving, building maps, exploring theory, running
+  experiments, with some sessions dedicated to packaging into papers
+- Specific company problems are fine as long as the pace allows depth, not a culture of quick
+  patches
+- General principles even on specific problems, what matters in ten years
+- Exchange with peers is async and written, on general problems, with occasional presentations
+- Company alignment is ideal, side research is acceptable if the role pays and does not drain
+- Filter out leadership and management, managing fires and small problems is structurally wrong
+  for monofocus
+- Filter out teaching to unprepared audiences, gap-filling drains, it works only when the
+  listener has the building blocks
+- Filter out evaluation or coordination roles disguised as "scientist", the title must match
+  the work
+- Filter out bazaar culture, weekly pivots, bias for action, ad-hoc scope changes, incompatible
+  with monofocus
+- Prefers methods and research that feed into products over optimising customer metrics directly
+- More abstract and exploratory work becomes accessible as credentials and leverage grow
+- The big corp label has value with diminishing returns, a time-limited brand play if entering one
