@@ -84,36 +84,33 @@ everything that drifts outside the thread.
 
 #### Work history
 
-- Amazon AGI, Apr 2025 to Dec 2026: Applied Scientist L5 on Ermis 18B conversational TTS, the
-  Thunderball team; evaluation coordination, WER metrics, hallucination detection, i18n scaling
-  across 17 languages; stability experiments, reference leakage solved via summed speaker
-  embeddings, cut-offs; exposure to 100-plus GPU distributed training, 200-plus researcher teams,
-  a biweekly release cadence; comp about 120k USD the first year, well below market for the skill
-  level; a cathedral-against-bazaar mismatch, weekly pivots and ad-hoc scope changes prevented
-  deep work; publication confirmed impossible, IP restrictions, the manager demands customer
-  impact framing; a coaching plan after seven months of cultural mismatch triggered the exit; sick
-  leave Feb to Aug 2026, back since Aug 15 with adjustments; since Oct 2026 the Polly caption
-  control project, handed over Nov 13. The interview line for why leaving: "I design stability
-  experiments on an 18B model, I want to train models, not coordinate their evaluation"
-- Mirelo.ai, Jul 2024 to Mar 2025: freelance, seven months, mostly music generation with different
-  conditionals, text, melody, style; RVQ-based autoregressive models, diffusion approaches tried;
-  speech enhancement, denoising, video alignment, quantization experiments; distributed training on
-  HGX 8 by H100; main contributions the latent diffusion models and the RQ-Transformer, depth and
-  temporal; offered 70k EUR in Berlin plus 0.4% equity, a 41M USD seed, expected four-year value
-  about 627k USD; left for Amazon's brand recognition, a bet on door-opening power over equity
-- Resound, 2020 to 2024: founding research engineer, the whole audio ML platform built from
-  scratch, solo; more than 1M podcasts processed, 20k users, shipped to millions on GCP; active
-  learning, confidence scoring, filler-sound detection, production deployment; full lifecycle
-  ownership from data collection to model serving; four years of sustained deep work in month-long
-  project cycles, the ideal environment; comp about 200k USD the last year, a US contract
-- Early career, 2016 to 2020: Scalac, 2019 to 2020, the ABSA library built solo, BERT aspect-based
-  sentiment analysis, pip-installable with attention-based explainability; Sigmoidal, 2018 to 2019,
-  short ML projects, document classification, NER, time series; HCI Lab, 2018 to 2019, end-to-end
-  ASR for Polish with Prof Marasek; iHouse, 2016 to 2017, software engineer, a web crawler for
-  real-estate aggregation
-- MSc Computer Science, PJAIT 2018, thesis on synthetic TTS data for ASR across languages; MSc
-  Civil Engineering, Gdańsk University of Technology 2017, numerical optimisation of bridge
-  structures; the transition civil engineering, self-taught ML, ASR research, production ML
+- Amazon AGI, Apr 2025 to Dec 2026, Applied Scientist L5 on Ermis 18B conversational TTS, the
+  Thunderball team
+- The work, evaluation coordination, WER metrics, hallucination detection, i18n scaling across 17
+  languages, stability experiments, reference leakage solved via summed speaker embeddings
+- Pay about 290k PLN net a year at full salary, about 74k USD at the Oct 2026 rate
+- Weekly pivots and ad-hoc scope changes prevented deep work, and publication was confirmed
+  impossible
+- A coaching plan after seven months of mismatch triggered the exit, sick leave Feb to Aug 2026,
+  back since Aug 15 with adjustments, then his own letter
+- Since Oct 2026 the Polly caption control project, handed over Nov 13
+- The interview line for why leaving, "I design stability experiments on an 18B model, I want to
+  train models, not coordinate their evaluation"
+- Mirelo.ai, Jul 2024 to Mar 2025, freelance, seven months, mostly music generation, the main
+  contributions the latent diffusion models and the RQ-Transformer
+- Pay about 55k EUR net
+- Offered 70k EUR in Berlin plus 0.4% equity, expected four-year value about 627k USD, and left
+  for Amazon's brand, a bet on door-opening power over equity
+- Resound, 2020 to 2024, founding research engineer, the whole audio ML platform built from
+  scratch, solo, shipped to millions
+- Four years of sustained deep work in month-long project cycles, the ideal environment
+- Pay about 160k USD net the last year, a US contract
+- Early career, 2016 to 2020, Scalac with the ABSA library built solo, Sigmoidal with short ML
+  projects, HCI Lab with end-to-end ASR for Polish with Prof Marasek, iHouse as a software
+  engineer
+- MSc Computer Science, PJAIT 2018, thesis on synthetic TTS data for ASR across languages, and
+  MSc Civil Engineering, Gdańsk University of Technology 2017, numerical optimisation of bridge
+  structures, the arc civil engineering, self-taught ML, ASR research, production ML
 
 #### Public footprint
 
