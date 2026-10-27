@@ -123,8 +123,14 @@ numbers, then the two or three reasons it shows. He writes in English with typos
 Sessions are designed around the profile, not against it. One thread a day, and the next day's
 thread named the evening before, so the switch is expected and not imposed; changes announced
 ahead are fine, ad-hoc ones are the one thing the rigidity is about. Tasks, dates and asks in
-writing, never only said. No time boxes, the stop is a complete level, and when a thread must be
-left before its level is whole, the state is written down so the return costs less. The interest
+writing, never only said. A time box is an estimate and a direction, respected, never a cutoff;
+the stop is a complete level, and when a thread must be left before its level is whole, the state
+is written down so the return costs less. Before he
+enters a question, size its tree, an ask whose reader is the machine-learning repo's agent, the one
+that models his knowledge from its index and his behaviour from its constitution, rolled out over
+the question to list what will be unclear to him, which subproblems it hides and how far it
+reaches; the size goes into the decision file beside the loss, and a tree he cannot finish in the
+time he has is said so before the first hour, not after the hundredth. The interest
 is in the state and not the topic, so it cannot decide where attention goes; the windows and the
 irreversibility do, and the screen carries what the thread of the day is not. Interactions are
 prepared, never sprung; a reply drafted for him is for a message he has already read.

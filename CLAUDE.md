@@ -113,7 +113,11 @@ channels: the owner names the mail and calendar provider, then read-only MCP ser
 verified to exist before anything is built on them; the git logs; the watch list written here.
 LinkedIn weekly by the August design, the curator list first. The first planning session about
 Oct 30, then every third day. Then the first two decision files, the open-source mechanism and
-the exit beside the remote alternative and the US window.
+the exit beside the remote alternative and the US window. And the sizing ask, the owner's word of
+Oct 27: before he enters a question, Anna rolls it out with the machine-learning repo's agent, the
+one that models his knowledge from agent/index.md and his behaviour from agent/constitution.md, to
+approximate what will be unclear, the subproblems and the scope, so the tree is sized before the
+first hour; one of Anna's main asks, its shape to be designed with him.
 
 Open. Which mail and calendar provider, and which MCP servers read them with read-only scopes. The
 watch list, sources and questions. The curator list for LinkedIn, and whether the browser is the

@@ -1,118 +1,67 @@
-Who the owner is, as he observes himself, read by the agent before it writes for him. Supervised
-by him, so it may be wrong and he corrects it; observations only, the prescriptions live in the
-contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass, prose on his word.
+Who the owner is, as he observes himself, and the support each trait calls for, read by the agent
+before it writes for him. Supervised by him, so it may be wrong and he corrects it. What Anna does
+about it, and how, lives in the contract. Reorganised on Oct 27, 2026 into seven sections, bullets
+for his pass, prose on his word.
 
 ---
 
 #### Professional identity
 
-He bridges research and engineering, derives from first principles and ships to millions, seven
-years in audio and speech ML across production systems and frontier research. A researcher without
-papers and without credentials. Theory first, with derivation depth across the ML stack,
-probability for 27 months, linear algebra for 18, and the evidence is the work itself, the
-derivations, the blog, Amazon. Since agents, most of the engineering is done by agents, and the
-human's place has moved up the stack, the design, the supervision of the critical logic, the
-choice of what to derive and what to build. Seven years on both halves is what makes that
-supervision competent, the bridge is now the whole job. And seven years of audio generative
-modeling is one problem shape, representing a continuous, structured, non-text modality as token
-sequences an autoregressive model can learn.
+Rafal bridges research and engineering, likes to derive from first principles, seven years in
+audio and speech ML across production systems and research. A researcher without papers and
+without credentials. Theory first, with derivation depth across the ML stack, where the evidence is
+the work itself, the derivations, the blog, Amazon. Since agents, most of the engineering is done
+by agents, and the human's place has moved up the stack, the design, the supervision of the
+critical logic, the choice of what to derive and what to build. Seven years on both halves is what
+makes that supervision competent, the bridge is now the whole job. And seven years of audio
+generative modeling is one problem shape, representing a continuous, structured, non-text modality
+as token sequences an autoregressive model can learn.
 
 #### Thinking patterns
 
-- Autism spectrum criteria met, ACIA and NURT, Sep 2026, and ADHD confirmed, DIVA-5, Aug 2026,
-  inattentive-predominant, both at psychologist level; the psychiatrist confirmed both on Oct 1,
-  2026. The AQ self-screen was 32 of 50 in May 2026. A neurotype, not a pathology, the frame since
-  May 2026; what broke at Amazon was a structural mismatch between this brain and that place, not
-  the brain. Medication is an open question in the health thread
-- The engine is attention that locks on one thing, any thing, ML, the market, psychology, and he
-  loves that state. Nothing costs him inside it, no critic is active, there is only the focus on
-  understanding. The interest is in the state, not the topic, so everything becomes interesting
-  eventually, and interest alone cannot decide where attention goes
-- What he wants to understand is a tree of subproblems, and before he starts he cannot see what it
-  is made of or how many parts it has. It grows far beyond what he expected, fourteen hours that
-  became a hundred, and that is natural. Time boxes change nothing about it, they only stress him.
-  The one stop that works is trimming the tree to a shape in which every node understood so far
-  makes a complete story at one level
-- Leaving before a level is whole drops the structure, the thoughts are not yet one piece and the
-  return costs the hours again, so staying is cheaper. "I am wasting time" is the critic speaking,
-  and afterwards, seeing how much got done, it goes quiet
-- Unrelenting standards, 4.4 of 6 on the YSQ-S3, was the outside's name for the cost of leaving
-  before a level is whole. A critic grew around that cost and the questionnaire measured the critic
-  as the cause; the entries of May and June described the cost under the wrong name. A plan makes
-  him safe because it tells him where he is, not because he has to keep to it
-- Inertia, hard to start and hard to stop, DIVA-5's "niemożność przerwania niektórych aktywności".
-  The start side is the cost of starting, not reluctance. Computer, bike, walk, talk, once started
-  he wants them to last, talk has nothing to achieve and is still hard to end
-- Monofocus, a single-thread processor, one domain receives attention and everything else stops,
-  structural, not fixable. Initiating a new thread is expensive, the momentum on the current one is
-  lost and the new one takes hours to reach depth
-- The rigidity is about imposed, ad-hoc change, not novelty. Relocations and job changes never
-  contradicted it when they were expected
-- He uses a word from one area for a structure he sees in another, the listener does not see the
-  analogy, and seeing analogies is also how he reads people, what the ACIA report calls a high
-  degree of intellectual compensation, the "neurotypowy doradca". It works and it costs, the
-  burden of the masking is the clinical basis for every accommodation he has asked for
-- Social desire is genuine, he likes meetings and wants to be part of them, and real-time
-  processing is the bottleneck. Jokes land late, between-the-lines is missed in the moment, casual
-  conversation has no footholds, even a message takes effort. One mode works, performing,
-  structured, prepared, unidirectional, the centre of attention since childhood. Withdrawal is
-  energy management, not avoidance. The compensation is understanding built offline, notes,
-  preparation before one-to-ones, pattern-matching over years, not live intuition. He takes
-  criticism very personally
-- Heightened cognitive state is heightened sensory awareness, the opposite of typical. Deeper focus
-  produces more sensory load, not less. The accommodation system was built over a lifetime,
-  headphones always, controlled noise or silence, no words in music during work, corner seating
-  with nobody behind, dim light, identical comfortable clothes, crowds drain, cold makes anxious,
-  body signals processed intensely
-- Deep focus is physiological activation, the body uses one system for alert and focused and for
-  alert and threatened. Eight hours of it can produce more than sleep clears, the baseline creeps,
-  the pleasure of discovery masks the cost, no stop signal arrives, and LLMs removed the natural
-  stopping points. The symptoms of 2026 were the filter dropping, not a new signal, and the system
-  sensitised until it ran on its own
-- A restricted interest in mathematical structure, aesthetic, how equations look and what they
-  mean, the work itself is the reward, not what it leads to. Usability is an excuse to study them,
-  and any applied role eventually conflicts with this. The math career is not despite the profile
-  but because of it, monofocus, detail perception, pattern recognition and the aesthetic relation
-  to structure are the traits that produce original research
-- Career is the primary identity anchor, competence and progress matter more than title or money
-- Teaching is the primary way of connecting with people, sharing depth is what creates the bond
-- The intensity that produces the best output is the same one that causes overcommitment and the
-  crash, there is no separate dial
-- Theory first, does not use what is not understood at the mechanism level. Single-topic immersion
-  for extended periods, probability took 27 months, linear algebra 18
-- The LLM handles the derivation steps and the algebraic manipulation, the human directs the path
-  and chooses what to derive next
-- Knowledge is stored as compressed maps, a topic contains questions, each question has bullets
-  marking the key reasoning steps; only the anchors are written down, what lies between them is
-  reconstructible, so filling the gaps would waste time. The goal is structural understanding,
-  which concepts exist, how they connect, where the boundaries are
-- What to select for, in work and in how Anna plans: sensory control, single-project deep focus,
-  schedule autonomy, a predictable process planned ahead with no sudden changes, tasks and
-  deadlines in writing, mathematical and structural work, prepared interactions over spontaneous
-  ones
+- Autism spectrum and ADHD, a neurotype, not a pathology. What broke at Amazon was the mismatch
+  between this brain and that place
+- The engine is attention that locks on one thing, any thing, and he loves that state, an attention
+  vacuum, focused and driven on the task, everything else drops out of view. The interest is in the
+  state, not the topic, so everything becomes interesting eventually, and interest alone cannot
+  decide where attention goes
+- Theory first, nothing used that is not understood at the mechanism level. The LLM derives, he
+  directs the path and chooses what to derive next, and knowledge is kept as compressed maps, only
+  the key anchors written, the rest of the narrative reconstructible
+- What he wants to understand is a tree of subproblems whose size he cannot see before the start.
+  Left unsized it grows far beyond what he expected, fourteen hours that became a hundred, and
+  inside the state excitement produces overcommitment with no warning signal. The tree needs
+  sizing before he enters it, by someone who can approximate what will be unclear to him, which
+  subproblems the question hides and how far it reaches. The size says whether to enter and at
+  which level, not when to stop
+- The one stop that works is a complete level. A question can be understood at several levels of
+  detail, and the understanding must be whole at one of them, a complete story at that level,
+  before he can leave it. A time box is an estimate and a direction, he respects it, but it
+  cannot demand that the level be whole by its end, since what the question needs is not known
+  before the start. Leaving before a level is whole drops the structure and the return costs the
+  hours again, so staying is cheaper. "I am wasting time" is the critic speaking, and once the
+  level is complete, however long it took, the effect is there to see and the critic goes quiet.
+  Unrelenting standards was the outside's name for that cost. A plan makes him safe because it
+  tells him where he is, not because he has to keep to it
+- Hard to start and hard to stop, inertia. The autistic rigidity is about imposed, ad-hoc change,
+  not novelty, expected changes never troubled him
 
 #### Working days
 
 - A four-hour morning block and a three-hour afternoon block, five days a week
-- One thread per day, mixing threads within a day costs willpower and feels unpleasant
-- Switching to a new thread is a painful ramp of about two hours before depth; continuing
-  yesterday's thread takes about fifteen minutes to recall, then straight into depth
-- The morning is the natural reset point, an afternoon second topic drains motivation; afternoon
-  admin is possible but hard to initiate, the morning is better for a forced switch
-- Admin and shallow tasks are hard to initiate, no depth or pleasure on the horizon, only pain if
-  delayed
-- The current deep thread always wins over anything that needs a context switch; things that need
-  action but are not the current thread drift until external pressure or a deadline
-- Scope expansion is the norm, prerequisite graphs expand without a cost estimate, S4 from 14 to
-  112 hours, investments from 2 to 38
-- When something is the current thread, excitement produces overcommitment with no warning signal
-- Time boxes change nothing and only stress. The stop that works is a complete level, every node
-  understood so far making one story, and a plan is safety because it says where he is, not a
-  thing to keep to
+- One thread per day, mixing threads within a day costs willpower and feels unpleasant. Switching
+  to a new thread is a ramp of about two hours before depth; continuing yesterday's takes about
+  fifteen minutes to recall, then straight into depth
+- The morning is the natural reset point, an afternoon second topic drains motivation; a forced
+  switch goes in the morning
+- Admin and shallow tasks are hard to start, no depth or pleasure on the horizon, only pain if
+  delayed, so they and anything else that is not the current thread drift until external pressure
+  or a deadline; the current deep thread always wins
 - None of this is a fault, it is structural and it is the method. Papers and new research
   directions are the tops of mountains, and a peak is reached only by thinking the thing through,
-  which is what the single thread does. Anna's screen is the complement, not the cure, it holds the
-  drift and the deadlines so that the thread of the day can stay the only thing that moves
+  which is what the single thread does. What he needs beside it is a complement, not a cure,
+  someone to carry the deadlines, the logistics and the drift so that the thread of the day can
+  stay the only thing that moves
 
 #### Career direction
 
@@ -152,8 +101,8 @@ sequences an autoregressive model can learn.
   sponsorship for the US, remote EU is the low-friction path
 - A baby is planned with his wife, said Oct 26, 2026, and a US move is easier in the coming months
   than later, the gate closes or narrows after; the strongest clock in this file
-- Leaving Amazon on his own letter, the Polly project to Nov 13, notice Nov 16, garden leave, last
-  day Dec 31, 2026; on sick leave since Feb 2026
+- Leaving Amazon on his own letter, employed to Dec 31, 2026, the Polly project to Nov 13, notice
+  Nov 16, garden leave after
 
 #### Public footprint
 
@@ -176,10 +125,10 @@ sequences an autoregressive model can learn.
   a biweekly release cadence; comp about 120k USD the first year, well below market for the skill
   level; a cathedral-against-bazaar mismatch, weekly pivots and ad-hoc scope changes prevented
   deep work; publication confirmed impossible, IP restrictions, the manager demands customer
-  impact framing; sick leave since Feb 2026, a coaching plan after seven months of cultural
-  mismatch triggered the exit; since Oct 2026 the Polly caption control project, handed over Nov
-  13. The interview line for why leaving: "I design stability experiments on an 18B model, I want
-  to train models, not coordinate their evaluation"
+  impact framing; a coaching plan after seven months of cultural mismatch triggered the exit; sick
+  leave Feb to Aug 2026, back since Aug 15 with adjustments; since Oct 2026 the Polly caption
+  control project, handed over Nov 13. The interview line for why leaving: "I design stability
+  experiments on an 18B model, I want to train models, not coordinate their evaluation"
 - Mirelo.ai, Jul 2024 to Mar 2025: freelance, seven months, mostly music generation with different
   conditionals, text, melody, style; RVQ-based autoregressive models, diffusion approaches tried;
   speech enhancement, denoising, video alignment, quantization experiments; distributed training on
