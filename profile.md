@@ -126,25 +126,44 @@ remote and would relocate for the right role, the US needs visa sponsorship, so 
 low-friction path. A baby is planned, and a US move is easier in the coming months than years. He
 is leaving Amazon, employed to Dec 31, 2026.
 
-#### Career direction
+#### Work environment
 
-- Success is intellectual respect from qualified peers who engage with the ideas at depth
-- Publications are the artifact form, lasting, public, reaching a broader audience
-- Near term, two to three years, a research role that allows deep work, plus investment income
-- Long term, a board member or advisor role leveraging accumulated expertise, plus investments
-- Ideal work is mostly solo with LLMs, experiments included, with some sessions dedicated to
-  packaging into papers
-- Specific company problems are fine as long as the pace allows depth, not a culture of quick
-  patches
-- General principles even on specific problems, what matters in ten years
-- Exchange with peers is async and written, on general problems, with occasional presentations
-- Company alignment is ideal, side research is acceptable if the role pays and does not drain
+- Depth over pace, month-long cycles and few pivots, the Resound shape, not quick patches; weekly
+  pivots, bias for action and ad-hoc scope changes broke Amazon
+- Problems that compound across years, the general rule behind the ticket, and a job that leaves
+  no room for it fails
+- Mostly solo with LLMs, async written exchange with peers on general problems, occasional
+  presentations
+- Remote preferred, an onsite US role pays more in gross and less after costs, and leaves less
+  time for his own expertise
 - Filter out leadership and management, fires and small problems
 - Filter out teaching to unprepared audiences, gap-filling drains, it works only when the
   listener has the building blocks
 - Filter out evaluation or coordination roles disguised as "scientist", the title must match
   the work
-- Filter out bazaar culture, weekly pivots, bias for action, ad-hoc scope changes
-- Prefers methods and research that feed into products over optimising customer metrics directly
-- More abstract and exploratory work becomes accessible as credentials and leverage grow
-- The big corp label has value with diminishing returns, a time-limited brand play if entering one
+- Methods that feed into products over optimising customer metrics directly, a preference that
+  pay, depth or culture can outweigh
+- Since agents do the engineering few jobs are strictly boring, even Amazon became interesting
+  to work in, so the filters are about culture and pace, not about the task
+
+#### Career direction
+
+- Two losses. The job is for compensation, the research is his own and done anytime, and a move
+  is scored on each apart
+- Success in research is intellectual respect from qualified peers who engage with the ideas at
+  depth
+- The peaks are papers and open source alike, artifacts the field can cite, lasting and public
+- He is a company building expertise, not an employee selling hours; a job is a client that funds
+  the portfolio, and the research story around it is the wrapper, the compensation the content
+- The goal is a portfolio of one to two million USD in three to five years, then investing and
+  own initiatives, flats bought and done up among them
+- The pay goal is a remote role at about 300k USD. The open trade-off is 250k remote now against
+  400k onsite in the US, about 200k net after costs, the same step toward capital with more time
+  for his own expertise
+- Near term a role or independent work, scored the same way; he does not believe an employer
+  invests in him, and he may be wrong
+- Equity is welcome on top of a salary that holds the floor, never instead of it
+- The big corp label helps, the market decides the rest, and the market is tough now
+- A PhD is on the table for the label and the doors it opens, university, grants, positions,
+  undecided
+- Years beyond five, a board member or advisor role, not within the horizon
