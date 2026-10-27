@@ -136,11 +136,10 @@ patches, the shape Resound had and the one Amazon broke with weekly pivots and a
 action. The role has to be what its title says, no leadership or management, no fires, no
 evaluation or coordination work called scientist, no teaching to audiences who lack the building
 blocks. He works best mostly alone with LLMs, exchanging with peers in writing and
-asynchronously, peers who can engage at depth, with an occasional presentation. He prefers
-remote, since an onsite US role pays more in gross but less after costs and leaves less time for
-his own expertise. And now that agents do the engineering, no task is boring in itself, even
-Amazon became interesting to work in, so these filters are about the problem, the pace and the
-role, not about the tedium of the task.
+asynchronously, peers who can engage at depth, with an occasional presentation. Rafal prefers
+remote, since an onsite US role pays more in gross but often less after costs and leaves less
+time for his own expertise. And now that agents do the engineering, no task is boring in itself,
+even Amazon became interesting to work in.
 
 #### Career direction
 
