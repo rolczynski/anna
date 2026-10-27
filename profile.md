@@ -149,9 +149,7 @@ work in.
 One force is research. Success there is intellectual respect from qualified peers who engage
 with the ideas at depth. The peaks are papers and open source, artifacts the field can
 cite. Six years of foundations sit behind it and the peak is the next stage. A PhD pulls the
-same way, for the label and the doors it opens — university, grants, positions.
-
-The other force is capital. The goal is a portfolio of one to two million USD in three to five
+same way, for the label and the doors it opens — university, grants, positions. The other force is capital. The goal is a portfolio of one to two million USD in three to five
 years, then investing and own initiatives, flats bought and renovated among them. Pay is the
 engine of that goal, a remote role at about 300k USD, equity welcome on top of a salary
 and never instead of it. He is a company building expertise, not an employee selling hours. A
@@ -162,9 +160,9 @@ The two pull apart. Companies pay, and research in companies is often all work d
 scientist. Honest research pays little and asks for credentials he does not have. Independent
 research is possible near financial independence but has no peers and no label. The model that
 once balanced them was a less demanding, well-paid job done efficiently, with half the time at
-least left for research, his own investment in himself, since he does not believe an employer
-invests in him. Neither force resolves the other. The job is scored on compensation and Work
-environment, the research on peaks, and the balance is kept move by move. Years beyond five lies
-a board member or advisor role with a PhD and publications, reached only once both forces have
-been served, the capital built and the peaks climbed.
+least left for research. That half was his own investment in himself, since he does not believe
+an employer invests in him. Neither force resolves the other. The job is scored on compensation
+and Work environment, the research on peaks, and the balance is kept move by move. Years beyond
+five lies a board member or advisor role with a PhD and publications, reached only once both
+forces have been served, the capital built and the peaks climbed.
 
