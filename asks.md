@@ -13,3 +13,10 @@ planner every third day, the decision file as the unit of work, what goes where,
 in and out, the cadence, the name. The assumptions, the options considered and the direction
 stand as bullets for the owner to cut, and the same design stands as bullets in user.md, his
 file, where it becomes prose on his word. Open: the owner's cuts, then the first version in a week.
+
+**2026-10-27-the-world-connections.md** — ask, to collect. How Anna reads Gmail, Google Calendar
+and LinkedIn without being able to act, the owner's question of Oct 27 with his answers, one
+Google account, LinkedIn by the August design, connect and test before writing. The places to
+read are the Claude Code permission and MCP docs, three community servers, Google's read-only
+scopes and the calendar's secret address, the August LinkedIn entry. Findings pending; they feed
+the execution brief and the user.md section.
