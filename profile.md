@@ -1,7 +1,10 @@
-Who the owner is, as he observes himself, and the support each trait calls for, read by the agent
-before it writes for him. Supervised by him carefully, every section passed line by line on
-Oct 27, 2026, so what stands here is his, and it changes only through him. What Anna does about
-it, and how, lives in the contract.
+Who Rafal is, as he observes himself, and the support each trait calls for. Anna reads it before
+she plans a session or writes for him. He passed every line on Oct 27, 2026, so it is trusted and
+changes only through him. Four parts, the mind in Professional identity, Thinking patterns and
+Trees and levels, the shape of the work in Working days and Assistant help, the record in Work
+history and Public footprint, and the present in Position today, Work environment and Two
+forces. What Anna does about it lives in the contract, and what he has agreed about Anna herself
+in user.md.
 
 ---
 
