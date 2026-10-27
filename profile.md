@@ -133,32 +133,35 @@ compounds across years and sits at the core of a product rather than being one f
 complex system, and a task that is small or short fails whatever else the role gives. The pace
 has to allow depth, month-long cycles with few pivots, no ad-hoc scope changes and no quick
 patches, the shape Resound had and the one Amazon broke with weekly pivots and a bias for
-action. The role has to be what its title says, no leadership or management, no fires, no
-evaluation or coordination work called scientist, no teaching to audiences who lack the building
-blocks. He works best mostly alone with LLMs, exchanging with peers in writing and
-asynchronously, peers who can engage at depth, with an occasional presentation. Rafal prefers
-remote, since an onsite US role pays more in gross but often less after costs and leaves less
-time for his own expertise. And now that agents do the engineering, no task is boring in itself,
-even Amazon became interesting to work in.
+action. The role is judged by its work, no leadership or management, no fires, no teaching to
+audiences who lack the building blocks, and a scientist title over evaluation or coordination
+work is a warning about the place, checked before the move, not a filter. He works best mostly
+alone with LLMs, exchanging with peers in writing and asynchronously, peers who can engage at
+depth, with an occasional presentation. Rafal prefers remote, since an onsite US role pays more
+in gross but often less after costs and leaves less time for his own expertise. And now that
+agents do the engineering, no task is boring in itself, even Amazon became interesting to
+work in.
 
 #### Career direction
 
-- Two losses. The job is for compensation, the research is his own and done anytime, and a move
-  is scored on each apart
-- Success in research is intellectual respect from qualified peers who engage with the ideas at
-  depth
-- The peaks are papers and open source alike, artifacts the field can cite, lasting and public
+- One force is research. Success there is intellectual respect from qualified peers who engage
+  with the ideas at depth, and the peaks are papers and open source alike, artifacts the field
+  can cite
+- Six years of foundations sit behind it and the peak is the next stage; a PhD pulls the same
+  way, for the label and the doors it opens, university, grants, positions, undecided
+- The other force is capital. The goal is a portfolio of one to two million USD in three to five
+  years, then investing and own initiatives, flats bought and done up among them
+- Pay is the engine of that goal, a remote role at about 300k USD the mark, equity welcome on top
+  of a salary and never instead of it
 - He is a company building expertise, not an employee selling hours; a job is a client that funds
   the portfolio, and the research story around it is the wrapper, the compensation the content
-- The goal is a portfolio of one to two million USD in three to five years, then investing and
-  own initiatives, flats bought and done up among them
-- The pay goal is a remote role at about 300k USD. The open trade-off is 250k remote now against
-  400k onsite in the US, about 200k net after costs, the same step toward capital with more time
-  for his own expertise
-- Near term a role or independent work, scored the same way; he does not believe an employer
-  invests in him, and he may be wrong
-- Equity is welcome on top of a salary that holds the floor, never instead of it
-- The big corp label helps, the market decides the rest, and the market is tough now
-- A PhD is on the table for the label and the doors it opens, university, grants, positions,
-  undecided
-- Years beyond five, a board member or advisor role, not within the horizon
+- The two pull apart. Companies pay, and research in companies is often all work disguised as
+  scientist; honest research pays little and asks for credentials he does not have; independent
+  research is possible near financial independence and has no peers and no label
+- The model that once balanced them was a less demanding, well-paid job done efficiently, with
+  half the time at least left for research, and at the pay goal that model may not exist
+- He does not believe an employer invests in him, and he may be wrong; the big corp label helps
+  on the capital side, the market decides the rest, and the market is tough now
+- Neither force resolves the other. The job is scored on compensation and Environment, the
+  research on peaks, and the balance is struck move by move
+- Years beyond five, a board member or advisor role, on the far side of both forces

@@ -132,5 +132,6 @@ first hour; one of Anna's main asks, its shape to be designed with him.
 Open. Which mail and calendar provider, and which MCP servers read them with read-only scopes. The
 watch list, sources and questions. The curator list for LinkedIn, and whether the browser is the
 Playwright MCP of this machine. The two memory folders, deletable on the owner's word. The
-private-notes settings. The stale paths in docs/interviews.md. Review Nov 2, the first version;
-Nov 16, where the owner's time goes.
+private-notes settings. The stale paths in docs/interviews.md. Where the research
+time comes from under the pay goal, the owner's word of Oct 27, the first career decision file.
+Review Nov 2, the first version; Nov 16, where the owner's time goes.
