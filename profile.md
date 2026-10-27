@@ -148,24 +148,18 @@ work in.
 
 One force is research. Success there is intellectual respect from qualified peers who engage
 with the ideas at depth. The peaks are papers and open source, artifacts the field can cite. Six
-years of foundations sit behind it and the peak is the next stage. A PhD pulls the same way, for
-the label and the doors it opens — university, grants, positions. The other force is capital.
-The goal is a portfolio of one to two million USD in three to five years, then investing and own
-initiatives, flats bought and renovated among them. Pay is the engine of that goal, a remote
-role at about 300k USD, equity welcome on top of a salary and never instead of it. He is a
-company building expertise, not an employee selling hours. A job is a client that funds the
-portfolio, and an employer who pays less and tells a research story to cover it is a warning,
-the research is rarely real and the lower pay always is.
+years of foundations sit behind it. A PhD pulls the same way, for the label and the doors it
+opens — university, grants, positions. The other force is capital. The goal is a portfolio of
+one to two million USD in three to five years, then investing and own initiatives, flats bought
+and renovated among them. Pay is the engine of that goal, a remote role at about 300k USD. Rafal
+has a company-building mindset, not an employee selling hours.
 
 No single place serves both forces. A company job serves capital and fails research, since what
 it calls research is usually something else. Honest research serves the peaks and fails capital,
-it pays little and asks for credentials he does not have. Independent research, possible near
-financial independence, serves the peaks slowly and the capital not at all, with no peers and no
-label. The one arrangement that served both was a less demanding, well-paid job done
-efficiently, with half the time left for research, and it is the shape to look for. That half
-was his own investment in himself, since he does not believe an employer invests in him. So the
-two are scored apart, the job on compensation and Work environment, the research on peaks, and
-every move is named by the force it serves and the price it charges the other. Years beyond
-five, once the capital is built and the peaks climbed, lies a board member or advisor role with
-a PhD and publications.
+it pays little and asks for credentials Rafal does not have. Independent research serves the
+peaks slowly (working alone) and the capital not at all, with no peers and no label. The one
+arrangement that served both was a well-paid job, with half the time left for research. That
+half was his own investment in himself, since he does not believe that any employer invests in
+employees truly. Years beyond five, once the capital is built and the peaks climbed, lies a
+board member or advisor role with a PhD and publications.
 
