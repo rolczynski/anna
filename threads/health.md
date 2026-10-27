@@ -7,9 +7,11 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
 
 ## Pending
 
-- Psychiatrist, Thu Oct 1 held, both diagnoses confirmed, ADHD and the autism spectrum; the entry
-  in health.md to write, the rozpoznanie and codes, her reading of the anxiety next to the autism,
-  the ADHD medication trade-off, DBT or other tools
+- Psychiatrist, Thu Oct 1 held, both diagnoses confirmed; the entry stands in health.md as bullets
+  since Oct 27 for the owner's cuts, then "write". Open from the visit: the ECG with QTc before the
+  first Atenza dose, the owner's decision whether to run the test at all, atomoxetine 18 mg then 27
+  after two weeks, Brintellix unchanged at 15 mg; the control visit about Feb 1, 2027; the
+  diagnosis codes not in the recommendations he has
 - New glasses, prescription in hand since Aug 27, health.md; refund cap 350 PLN, the process in
   docs/amazon.md of Sep 27, buy with a faktura VAT imienna, the DLS Accommodation Team via My HR
   with the orzeczenie and the invoice, then Emburse; not while on sick leave, and while system
@@ -17,7 +19,8 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
 
 ## Assumptions to check
 
-- None saved yet
+- The Oct 1 e-prescriptions are still valid to collect, 30 days from issue unless marked for a
+  year; if not, a new prescription is needed before any test
 
 ## Decisions
 
