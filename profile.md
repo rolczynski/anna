@@ -128,17 +128,19 @@ is leaving Amazon, employed to Dec 31, 2026.
 
 #### Work environment
 
-The problem must be large and general, compounding across years, the core of a product rather
-than a feature in a complex system, and a task that is small or short fails whatever else the
-role offers. The pace is depth over speed, month-long cycles, few pivots, no ad-hoc scope
-changes and no quick patches, the Resound shape, where weekly pivots and bias for action broke
-Amazon. The role is one whose title matches the work, no leadership or management, no fires, no
-evaluation or coordination called scientist, no teaching to audiences without the building
-blocks. The mode is mostly solo with LLMs, async written exchange with peers who can engage at
-depth, occasional presentations. The place is remote by preference, an onsite US role pays more
-in gross and less after costs and leaves less time for his own expertise. And since agents do
-the engineering no task is boring in itself, even Amazon became interesting to work in, so the
-filters are about the problem, the pace and the role, not the tedium of the task.
+What a place must offer starts with the problem. It has to be large and general, something that
+compounds across years and sits at the core of a product rather than being one feature in a
+complex system, and a task that is small or short fails whatever else the role gives. The pace
+has to allow depth, month-long cycles with few pivots, no ad-hoc scope changes and no quick
+patches, the shape Resound had and the one Amazon broke with weekly pivots and a bias for
+action. The role has to be what its title says, no leadership or management, no fires, no
+evaluation or coordination work called scientist, no teaching to audiences who lack the building
+blocks. He works best mostly alone with LLMs, exchanging with peers in writing and
+asynchronously, peers who can engage at depth, with an occasional presentation. He prefers
+remote, since an onsite US role pays more in gross but less after costs and leaves less time for
+his own expertise. And now that agents do the engineering, no task is boring in itself, even
+Amazon became interesting to work in, so these filters are about the problem, the pace and the
+role, not about the tedium of the task.
 
 #### Career direction
 
