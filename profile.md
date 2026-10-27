@@ -107,7 +107,7 @@ structures.
 
 #### Public footprint
 
-The outside sees a fraction, a blog that reads as teaching and one old library, and places Rafal
+The outside sees a fraction, a blog that reads as teaching, not research. This places Rafal
 below what he knows. behindml.com carries eight technical blog posts, May to Dec 2024, full
 mathematical derivations, about 75 visitors a month, and one GitHub repo has 583 stars and 2M
 HuggingFace downloads, five years old and outdated. The foundations are private, six years of
