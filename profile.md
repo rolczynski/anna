@@ -147,10 +147,9 @@ work in.
 #### Two forces
 
 One force is research. Success there is intellectual respect from qualified peers who engage
-with the ideas at depth, and the peaks are papers and open source alike, artifacts the field can
-cite. Six years of foundations sit behind it and the peak is the next stage, and a PhD,
-undecided, pulls the same way, for the label and the doors it opens, university,
-grants, positions.
+with the ideas at depth. The peaks are papers and open source, artifacts the field can
+cite. Six years of foundations sit behind it and the peak is the next stage, and a PhD pulls the
+same way, for the label and the doors it opens, university, grants, positions.
 
 The other force is capital. The goal is a portfolio of one to two million USD in three to five
 years, then investing and own initiatives, flats bought and renovated among them. Pay is the
