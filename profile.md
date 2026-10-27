@@ -84,24 +84,26 @@ everything that drifts outside the thread.
 
 #### Work history
 
-Amazon AGI, Apr 2025 to Dec 2026, Applied Scientist L5 on Ermis 18B conversational TTS, the work
-controllability, SFT and DPO, evaluations, metric design, stability experiments. Pay 120k USD a
-year, net 74k USD. Weekly pivots and ad-hoc scope changes prevented deep work, and publication
-was almost impossible. A coaching plan after seven months of mismatch triggered the exit, sick
-leave Feb to Aug 2026, back since Aug 15 with adjustments, leaving on his own decision, employed
-to Dec 31. Before it Mirelo.ai, Jul 2024 to Mar 2025, freelance, seven months, mostly music
-generation, the main contributions the latent diffusion models and the RQ-Transformer, 70k EUR a
-year in Berlin, paid about 55k EUR net, left for Amazon's brand.
+At Amazon AGI, Apr 2025 to Dec 2026, he is an Applied Scientist L5 on Ermis 18B conversational
+TTS, and the work has been controllability, SFT and DPO, evaluations, metric design and stability
+experiments, for 120k USD a year, net 74k USD. Weekly pivots and ad-hoc scope changes prevented
+deep work, and publication was almost impossible. A coaching plan after seven months of mismatch
+triggered the exit, then sick leave from Feb to Aug 2026, back since Aug 15 with adjustments, and
+he is leaving on his own decision, employed to Dec 31. He came to Amazon from Mirelo.ai, Jul 2024
+to Mar 2025, seven months of freelance work, mostly music generation, where his main
+contributions were the latent diffusion models and the RQ-Transformer. The pay was about 55k EUR
+net, with 70k EUR a year on the table in Berlin, and he left for Amazon's brand.
 
-Resound, 2020 to 2024, founding research engineer on a podcast editing platform, the ML almost a
-solo project, the software engineers and the product a wrapper around the ML service, which he
-built from scratch and shipped to millions. Four years of sustained deep work in month-long
-project cycles, the ideal environment. Pay 200k USD a year, net 170k USD, the last year, a US
-contract. Early career, 2016 to 2020, Scalac with the ABSA library built solo, Sigmoidal with
-short ML projects, PJAIT with end-to-end ASR for Polish with Prof Marasek, iHouse as a software
-engineer. MSc Computer Science, PJAIT 2018, thesis on synthetic TTS data for ASR across
-languages, and MSc Civil Engineering, Gdańsk University of Technology 2017, numerical
-optimisation of bridge structures.
+Before that, Resound, 2020 to 2024, as founding research engineer on a podcast editing platform.
+The ML was almost a solo project, the software engineers and the product a wrapper around the ML
+service, which he built from scratch and shipped to millions. Four years of sustained deep work
+in month-long project cycles, the ideal environment, and in the last year 200k USD on a US
+contract, net 170k USD. The early career, 2016 to 2020, runs through Scalac, where he built the
+ABSA library solo, Sigmoidal with short ML projects, PJAIT with end-to-end ASR for Polish under
+Prof Marasek, and iHouse as a software engineer. Two degrees, an MSc in Computer Science at
+PJAIT in 2018 with a thesis on synthetic TTS data for ASR across languages, and an MSc in Civil
+Engineering at Gdańsk University of Technology in 2017 on the numerical optimisation of bridge
+structures.
 
 #### Public footprint
 
