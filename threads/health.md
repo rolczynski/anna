@@ -14,8 +14,8 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
   line on the sheet is carried over from earlier visits, not a gate on the test
 - The entry "October 2026: Rereading the Standards" stands in health.md as six bullets since
   Oct 27, rewritten from scratch around one story, the standards as the outside's name for the
-  cost of leaving before the thing is whole, for the owner's cuts, then "write". It corrects two bullets of profile.md's Mind section,
-  the standards and the one dial, in his pass
+  cost of leaving before the thing is whole, for the owner's cuts, then "write". It corrects two
+  bullets of profile.md's Mind section, the standards and the one dial, in his pass
 - Anna's task for later, the owner's word of Oct 27: how to handle time and plans given the
   rereading, sequence and dates in the plan and durations out of it, the stop on the structure and
   not on him, the measure output and not hours, as a decision file once the entry is written and
