@@ -43,7 +43,7 @@ sections and URL lines are exempt from the width rule.
 - contract.md — how Anna works, the design, high level, loaded with this file, changed rarely and
   with the owner
 - profile.md — who the owner is and the support each trait calls for, his own observations,
-  supervised by him line by line, read before writing for him
+  supervised by him line by line, read before planning or writing for him
 - user.md — the owner's file, supervised by him, what he understands of Anna and has agreed to,
   bullets he cuts, prose on his word
 
