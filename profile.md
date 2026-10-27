@@ -147,14 +147,15 @@ work in.
 #### Two forces
 
 One force is research. Success there is intellectual respect from qualified peers who engage
-with the ideas at depth. The peaks are papers and open source, artifacts the field can
-cite. Six years of foundations sit behind it and the peak is the next stage. A PhD pulls the
-same way, for the label and the doors it opens — university, grants, positions. The other force is capital. The goal is a portfolio of one to two million USD in three to five
-years, then investing and own initiatives, flats bought and renovated among them. Pay is the
-engine of that goal, a remote role at about 300k USD, equity welcome on top of a salary
-and never instead of it. He is a company building expertise, not an employee selling hours. A
-job is a client that funds the portfolio, and an employer who pays less and tells a research
-story to cover it is a warning, the research is rarely real and the lower pay always is.
+with the ideas at depth. The peaks are papers and open source, artifacts the field can cite. Six
+years of foundations sit behind it and the peak is the next stage. A PhD pulls the same way, for
+the label and the doors it opens — university, grants, positions. The other force is capital.
+The goal is a portfolio of one to two million USD in three to five years, then investing and own
+initiatives, flats bought and renovated among them. Pay is the engine of that goal, a remote
+role at about 300k USD, equity welcome on top of a salary and never instead of it. He is a
+company building expertise, not an employee selling hours. A job is a client that funds the
+portfolio, and an employer who pays less and tells a research story to cover it is a warning,
+the research is rarely real and the lower pay always is.
 
 The two pull apart. Companies pay, and research in companies is often all work disguised as
 scientist. Honest research pays little and asks for credentials he does not have. Independent
