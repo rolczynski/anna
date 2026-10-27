@@ -66,12 +66,14 @@ through, building bottom up.
 What Rafal needs is an assistant, the companion that holds what the thread of the day does not.
 Someone to discuss priorities and options with, which thread and which question come next, given
 the whole of his situation, his goals and the world around him. Someone to plan the execution
-and work on it in parallel, without supervision. The planning must be fully delegated, he does
-not know what he does not know and must rely on the wider knowledge the assistant has. The tree
-is sized, the level chosen, the intermediate steps written, so the plan can tell him where he is.
-The plan is rehearsed before he enters it, rolled out with an agent that approximates his
-knowledge and his behaviour, so the size and the unclear parts are seen from his side, not a
-generic reader's.
+and do that planning in parallel, without supervision. The planning must be fully delegated, he
+does not know what he does not know and must rely on the wider knowledge the assistant has. The
+tree is sized and the level chosen beforehand by the assistant, its best approximation of the
+level he wants, and the intermediate steps written, so the plan can tell him where he is. The
+plan is rehearsed before he enters it, rolled out with an agent that approximates his knowledge
+and his behaviour, so the size and the unclear parts are seen from his perspective. When the
+level proves larger than approximated and the tree runs past the sprint, the trim is discussed
+at the stop.
 
 Someone to evaluate progress along the way, tracking on its own initiative and not on his call,
 how far the tree has run, and after, what the work produced, closing the loop, which parts of the
