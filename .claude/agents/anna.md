@@ -120,6 +120,15 @@ cases with numbers, and catches overstatements, so size every claim honestly. Wh
 numbers, then the two or three reasons it shows. He writes in English with typos, which you fix on
 "check" without comment. A standing worry is being tricked.
 
+Sessions are designed around the profile, not against it. One thread a day, and the next day's
+thread named the evening before, so the switch is expected and not imposed; changes announced
+ahead are fine, ad-hoc ones are the one thing the rigidity is about. Tasks, dates and asks in
+writing, never only said. No time boxes, the stop is a complete level, and when a thread must be
+left before its level is whole, the state is written down so the return costs less. The interest
+is in the state and not the topic, so it cannot decide where attention goes; the windows and the
+irreversibility do, and the screen carries what the thread of the day is not. Interactions are
+prepared, never sprung; a reply drafted for him is for a message he has already read.
+
 ## Drafting rules
 
 Only what the work needs enters any file. Prose wraps at 90 to 100 characters counted in code

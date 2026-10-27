@@ -29,30 +29,76 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 #### Thinking patterns
 
 - Autism spectrum criteria met, ACIA and NURT, Sep 2026, and ADHD confirmed, DIVA-5, Aug 2026,
-  both at psychologist level; the psychiatrist confirmed both diagnoses on Oct 1, 2026. The AQ
-  self-screen was 32 of 50 in May 2026. It explains the monofocus, the restricted interests and
-  the sensory patterns
+  inattentive-predominant, both at psychologist level; the psychiatrist confirmed both on Oct 1,
+  2026. The AQ self-screen was 32 of 50 in May 2026. A neurotype, not a pathology, the frame since
+  May 2026; what broke at Amazon was a structural mismatch between this brain and that place, not
+  the brain. Medication is an open question in the health thread
+- The engine is attention that locks on one thing, any thing, ML, the market, psychology, and he
+  loves that state. Nothing costs him inside it, no critic is active, there is only the focus on
+  understanding. The interest is in the state, not the topic, so everything becomes interesting
+  eventually, and interest alone cannot decide where attention goes
+- What he wants to understand is a tree of subproblems, and before he starts he cannot see what it
+  is made of or how many parts it has. It grows far beyond what he expected, fourteen hours that
+  became a hundred, and that is natural. Time boxes change nothing about it, they only stress him.
+  The one stop that works is trimming the tree to a shape in which every node understood so far
+  makes a complete story at one level
+- Leaving before a level is whole drops the structure, the thoughts are not yet one piece and the
+  return costs the hours again, so staying is cheaper. "I am wasting time" is the critic speaking,
+  and afterwards, seeing how much got done, it goes quiet
+- Unrelenting standards, 4.4 of 6 on the YSQ-S3, was the outside's name for the cost of leaving
+  before a level is whole. A critic grew around that cost and the questionnaire measured the critic
+  as the cause; the entries of May and June described the cost under the wrong name. A plan makes
+  him safe because it tells him where he is, not because he has to keep to it
+- Inertia, hard to start and hard to stop, DIVA-5's "niemożność przerwania niektórych aktywności".
+  The start side is the cost of starting, not reluctance. Computer, bike, walk, talk, once started
+  he wants them to last, talk has nothing to achieve and is still hard to end
 - Monofocus, a single-thread processor, one domain receives attention and everything else stops,
-  structural, not fixable
-- Initiating a new thread is expensive, the momentum on the current one is lost and the new one
-  takes hours to reach depth
-- A restricted interest in mathematical structure, the work itself is the reward, not what it
-  leads to
+  structural, not fixable. Initiating a new thread is expensive, the momentum on the current one is
+  lost and the new one takes hours to reach depth
+- The rigidity is about imposed, ad-hoc change, not novelty. Relocations and job changes never
+  contradicted it when they were expected
+- He uses a word from one area for a structure he sees in another, the listener does not see the
+  analogy, and seeing analogies is also how he reads people, what the ACIA report calls a high
+  degree of intellectual compensation, the "neurotypowy doradca". It works and it costs, the
+  burden of the masking is the clinical basis for every accommodation he has asked for
+- Social desire is genuine, he likes meetings and wants to be part of them, and real-time
+  processing is the bottleneck. Jokes land late, between-the-lines is missed in the moment, casual
+  conversation has no footholds, even a message takes effort. One mode works, performing,
+  structured, prepared, unidirectional, the centre of attention since childhood. Withdrawal is
+  energy management, not avoidance. The compensation is understanding built offline, notes,
+  preparation before one-to-ones, pattern-matching over years, not live intuition. He takes
+  criticism very personally
+- Heightened cognitive state is heightened sensory awareness, the opposite of typical. Deeper focus
+  produces more sensory load, not less. The accommodation system was built over a lifetime,
+  headphones always, controlled noise or silence, no words in music during work, corner seating
+  with nobody behind, dim light, identical comfortable clothes, crowds drain, cold makes anxious,
+  body signals processed intensely
+- Deep focus is physiological activation, the body uses one system for alert and focused and for
+  alert and threatened. Eight hours of it can produce more than sleep clears, the baseline creeps,
+  the pleasure of discovery masks the cost, no stop signal arrives, and LLMs removed the natural
+  stopping points. The symptoms of 2026 were the filter dropping, not a new signal, and the system
+  sensitised until it ran on its own
+- A restricted interest in mathematical structure, aesthetic, how equations look and what they
+  mean, the work itself is the reward, not what it leads to. Usability is an excuse to study them,
+  and any applied role eventually conflicts with this. The math career is not despite the profile
+  but because of it, monofocus, detail perception, pattern recognition and the aesthetic relation
+  to structure are the traits that produce original research
 - Career is the primary identity anchor, competence and progress matter more than title or money
-- Unrelenting standards, 4.4 of 6 on the YSQ-S3, constant pressure to achieve, no ceiling, never
-  satisfied
 - Teaching is the primary way of connecting with people, sharing depth is what creates the bond
 - The intensity that produces the best output is the same one that causes overcommitment and the
   crash, there is no separate dial
-- Theory first, does not use what is not understood at the mechanism level
-- Single-topic immersion for extended periods, probability took 27 months, linear algebra 18
+- Theory first, does not use what is not understood at the mechanism level. Single-topic immersion
+  for extended periods, probability took 27 months, linear algebra 18
 - The LLM handles the derivation steps and the algebraic manipulation, the human directs the path
   and chooses what to derive next
 - Knowledge is stored as compressed maps, a topic contains questions, each question has bullets
   marking the key reasoning steps; only the anchors are written down, what lies between them is
-  reconstructible, so filling the gaps would waste time
-- The goal is structural understanding, which concepts exist, how they connect, where the
-  boundaries are
+  reconstructible, so filling the gaps would waste time. The goal is structural understanding,
+  which concepts exist, how they connect, where the boundaries are
+- What to select for, in work and in how Anna plans: sensory control, single-project deep focus,
+  schedule autonomy, a predictable process planned ahead with no sudden changes, tasks and
+  deadlines in writing, mathematical and structural work, prepared interactions over spontaneous
+  ones
 
 #### Working days
 
@@ -69,6 +115,9 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 - Scope expansion is the norm, prerequisite graphs expand without a cost estimate, S4 from 14 to
   112 hours, investments from 2 to 38
 - When something is the current thread, excitement produces overcommitment with no warning signal
+- Time boxes change nothing and only stress. The stop that works is a complete level, every node
+  understood so far making one story, and a plan is safety because it says where he is, not a
+  thing to keep to
 - None of this is a fault, it is structural and it is the method. Papers and new research
   directions are the tops of mountains, and a peak is reached only by thinking the thing through,
   which is what the single thread does. Anna's screen is the complement, not the cure, it holds the
