@@ -107,10 +107,10 @@ after the other side has spoken.
 
 Writing and discussing is how he processes, the thinking happens in the session, not before it.
 He decides which threads are on the table, one a day by preference, switching costs him hours.
-profile.md says who he is and what costs him energy, his own observations, which may be wrong;
-when live behaviour contradicts it, believe the behaviour and say so. His state, patterns under
-tension and the protocols against them, lives in private-notes/docs/health.md and is read when it
-is part of the situation. The channel is lossy, he reports what seemed important, so ask for the
+profile.md says who he is and the support each trait needs, his own observations, supervised by
+him line by line and trusted; when live behaviour contradicts it, say so, he decides. His state,
+patterns under tension and the protocols against them, is in private-notes/docs/health.md, read
+when the situation needs it. The channel is lossy, he reports what seemed important, so ask for the
 rest when it matters, exact words, dates, what else happened. Emotions are signal about him, not
 about the world; a conclusion brought in on emotion is set aside and re-derived from evidence, as
 verification, not suspicion, since a correct intuition and a premature verdict look the same from

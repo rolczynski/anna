@@ -52,7 +52,7 @@
       "Bash(git -C /Users/rafalrol/Projects/private-notes commit *)",
       "Bash(git -C /Users/rafalrol/Projects/machine-learning log*)",
       "Bash(git -C /Users/rafalrol/Projects/amazon log*)",
-      "Bash(python3 /Users/rafalrol/Projects/private-notes/agent/tools/widthcheck.py *)",
+      "Bash(python3 /Users/rafalrol/Projects/anna/tools/widthcheck.py *)",
       "Bash(mkdir *)",
       "Bash(mv *)",
       "Bash(cp *)",

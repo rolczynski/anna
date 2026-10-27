@@ -35,7 +35,8 @@ sections and URL lines are exempt from the width rule.
 - CLAUDE.md — this file, the map and where things stand
 - README.md — what this repo is, for people
 - asks.md — the index of asks/
-- profile.md — who the owner is, his own observations, read before writing for him, may be wrong
+- profile.md — who the owner is and the support each trait calls for, his own observations,
+  supervised by him line by line, read before writing for him
 - user.md — the owner's file, supervised by him, what he understands of Anna and has agreed to,
   bullets he cuts, prose on his word
 
