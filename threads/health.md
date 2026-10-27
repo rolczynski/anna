@@ -12,13 +12,13 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
   demand by her word and 18 mg then 27 daily by the sheet, Brintellix unchanged at 15 mg; the
   control visit about Feb 1, 2027, for Brintellix. No diagnosis codes were written, and the ECG
   line on the sheet is carried over from earlier visits, not a gate on the test
-- The entry "October 2026: Rereading the Standards" stands in health.md as six bullets since
-  Oct 27, rewritten from scratch around one story, the standards as the outside's name for the
-  cost of leaving before the level is whole; a question is a tree of subproblems whose size cannot
-  be seen before the start, time boxes only stress, and the one stop that works is trimming the
-  tree to a shape complete at one level, the owner's correction of Oct 27; for his cuts, then
-  "write". It corrects two
-  bullets of profile.md's Mind section, the standards and the one dial, in his pass
+- The entry "October 2026: Rereading Unrelenting Standards" is written in health.md, Oct 27, two
+  paragraphs: the standards as the outside's name for the cost of leaving before a level is whole,
+  a question as a tree of subproblems whose size cannot be seen before the start, time boxes that
+  only stress, the one stop that works being the trim to a level that is whole, the critic grown
+  around the cost and measured as the cause, the plan as position and interest unable to allocate
+  attention. It corrects two bullets of profile.md's Mind section, the standards and the one dial,
+  in his pass
 - Anna's task for later, the owner's word of Oct 27: how to handle time and plans given the
   rereading, sequence and dates in the plan and durations out of it, the stop on the structure and
   not on him, the measure output and not hours, as a decision file once the entry is written and
