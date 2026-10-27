@@ -9,7 +9,7 @@ to do that, and one file of Rafał's, user.md. It is private.
 
 ```
 anna/
-├── .claude/         the agent, its skills and its settings
+├── .claude/         the default agent, its skills and its settings
 ├── asks/            the questions and their findings, decision files among them
 ├── tasks/           prepared work that spans sessions
 ├── threads/         one file per thread, Anna's record, named as in private-notes
@@ -17,11 +17,12 @@ anna/
 ├── CLAUDE.md        the map and where things stand, for the agent, rewritten every session
 ├── README.md        this file, for people
 ├── asks.md          the index of asks/, one paragraph per file
+├── contract.md      how Anna works, the design, loaded with CLAUDE.md
 ├── profile.md       who Rafał is, his own observations, read before writing for him
 └── user.md          Rafał's file, what he understands of Anna and has agreed to
 ```
 
-To work, open Claude Code in this folder. The agent is the default, CLAUDE.md carries the map and
-where things stand, and the agent reads it first. The knowledge base is ~/Projects/private-notes,
-the threads live there in docs/, and a decision reaches it only after Rafał has cut and approved
-the text.
+To work, open Claude Code in this folder. The agent is the default, its contract is contract.md,
+CLAUDE.md carries the map and where things stand, and both load at the start. The knowledge base
+is ~/Projects/private-notes, the threads live there in docs/, and a decision reaches it only after
+Rafał has cut and approved the text.

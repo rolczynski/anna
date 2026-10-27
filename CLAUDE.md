@@ -1,8 +1,9 @@
 # Anna
 
-This repo is the working record of Anna, the assistant, and nothing else. The agent is
-.claude/agents/anna.md, the default of this repo, and it says how the work runs; the skills in
-.claude/skills are the techniques it picks per situation. This file carries the map of the repo and
+This repo is the working record of Anna, the assistant, and nothing else. The contract is
+contract.md, loaded with this file by the line below, and it says how the work runs; the agent
+.claude/agents/anna.md is the default of this repo and points at it, the skills in .claude/skills
+are the techniques it picks per situation. This file carries the map of the repo and
 where things stand, rewritten before every session closes so the next one opens from it. After it,
 a session reads user.md, asks.md and the thread files it needs, and profile.md before writing for
 the owner. README.md is for people. The knowledge base is ~/Projects/private-notes, whose docs/
@@ -13,6 +14,8 @@ touch it. The ML study notes are ~/Projects/machine-learning.
 The repo is the agent's to keep, the owner ratifies its shape, and it stays flat and small. Nothing
 superseded is kept, what stops being relevant is deleted, not archived. Transcripts, the Findings
 sections and URL lines are exempt from the width rule.
+
+@contract.md
 
 ## Files
 
@@ -29,12 +32,16 @@ sections and URL lines are exempt from the width rule.
   market-story.md, read in parts 1 to 5 at the start of every session on the story
 - tools/ — widthcheck.py, the width check for every prose file here, in private-notes and in
   amazon, and transcript-format.py, whisper JSON to timed lines
-- .claude/ — agents/anna.md the contract, skills/ the seven techniques, fact base, game modeling,
-  move design, message drafting, user voice, emotion decoding, artifact writing, settings.json the
-  permissions with the agent as default
+- .claude/ — agents/anna.md the default agent, two lines pointing at the contract, skills/ the
+  seven techniques, fact base, game modeling, move design, message drafting, user voice, emotion
+  decoding, artifact writing, settings.json the permissions with the agent as default; Claude Code
+  prompts for every edit under .claude whatever the allow list says, so it is touched only with
+  the owner present
 - CLAUDE.md — this file, the map and where things stand
 - README.md — what this repo is, for people
 - asks.md — the index of asks/
+- contract.md — how Anna works, the design, high level, loaded with this file, changed rarely and
+  with the owner
 - profile.md — who the owner is and the support each trait calls for, his own observations,
   supervised by him line by line, read before writing for him
 - user.md — the owner's file, supervised by him, what he understands of Anna and has agreed to,
@@ -92,7 +99,9 @@ two references to the width script repointed. Not moved: the memory folder itsel
 word, and the amazon project's eleven copies likewise; private-notes/.claude/settings.json, still
 the advisor's allow list, to be reduced to what a knowledge base needs; two stale paths in
 private-notes/docs/interviews.md that name agent/memory.md and agent/user-profile.md, the owner's
-file, his to change.
+file, his to change. Later the same day the contract's text moved from .claude/agents/anna.md to
+contract.md, loaded through this file, since Claude Code prompts for every write under .claude
+and the contract is Anna's to keep; the agent file points at it.
 
 Decisions that bind, one line each. The repo is Anna's, the knowledge base is the owner's, a
 decision reaches it only after his cuts and in his voice. user.md here is his too. The collector
