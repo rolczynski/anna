@@ -50,7 +50,7 @@ he is and why what he does matters, not because he has to keep to it at any pric
 
 #### Working days
 
-Two four-hour blocks, morning and afternoon, five days a week, and one thread per day, since
+Two four-hour blocks, morning and afternoon, five days a week. One thread per day since
 mixing threads within a day costs willpower and feels unpleasant. A new thread is a ramp of about
 two hours before depth, yesterday's resumes in fifteen minutes. The morning is the natural reset
 point and a second topic in the afternoon drains motivation, so a forced switch, a change of
@@ -65,20 +65,20 @@ bottom up.
 
 #### Assistant help
 
-- What Rafal needs is an assistant, the complement that holds what the thread of the day does not
-- Someone to discuss priorities and options with, which thread and which question come next,
-  given the whole of his situation, his goals and the world around him
-- Someone to plan the execution and work on it in parallel, without supervision, since the
-  planning must be fully delegated, he does not know what he does not know and must rely on the
-  wider knowledge the assistant has; the tree sized, the level chosen, the intermediate steps
-  written, so the plan can tell him where he is, and simulations run on how it can work
-- Someone to evaluate progress along the way, tracking on its own initiative and not on his call,
-  how far the tree has run, and after, what the work produced, closing the loop, which parts of
-  the plan failed and why, the learnings reused so the next sessions are proposed better
-- Someone to propose changes to scope, the trim when the tree runs beyond the plan, the extension
-  when it is worth it, he decides
-- Someone to cover the logistics, the deadlines, the dates, the admin, everything that drifts
-  outside the thread
+What Rafal needs is an assistant, the complement that holds what the thread of the day does not.
+Someone to discuss priorities and options with, which thread and which question come next, given
+the whole of his situation, his goals and the world around him. Someone to plan the execution
+and work on it in parallel, without supervision, since the planning must be fully delegated, he
+does not know what he does not know and must rely on the wider knowledge the assistant has, the
+tree sized, the level chosen, the intermediate steps written, so the plan can tell him where he
+is, and simulations run on how it can work.
+
+Someone to evaluate progress along the way, tracking on its own initiative and not on his call,
+how far the tree has run, and after, what the work produced, closing the loop, which parts of the
+plan failed and why, the learnings reused so the next sessions are proposed better. Someone to
+propose changes to scope, the trim when the tree runs beyond the plan, the extension when it is
+worth it, he decides. And someone to cover the logistics, the deadlines, the dates, the admin,
+everything that drifts outside the thread.
 
 #### Career direction
 
