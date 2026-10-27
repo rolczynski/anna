@@ -157,13 +157,15 @@ company building expertise, not an employee selling hours. A job is a client tha
 portfolio, and an employer who pays less and tells a research story to cover it is a warning,
 the research is rarely real and the lower pay always is.
 
-The two pull apart. Companies pay, and research in companies is often all work disguised as
-scientist. Honest research pays little and asks for credentials he does not have. Independent
-research is possible near financial independence but has no peers and no label. The model that
-once balanced them was a less demanding, well-paid job done efficiently, with half the time at
-least left for research. That half was his own investment in himself, since he does not believe
-an employer invests in him. Neither force resolves the other. The job is scored on compensation
-and Work environment, the research on peaks, and the balance is kept move by move. Years beyond
-five lies a board member or advisor role with a PhD and publications, reached only once both
-forces have been served, the capital built and the peaks climbed.
+No single place serves both forces. A company job serves capital and fails research, since what
+it calls research is usually something else. Honest research serves the peaks and fails capital,
+it pays little and asks for credentials he does not have. Independent research, possible near
+financial independence, serves the peaks slowly and the capital not at all, with no peers and no
+label. The one arrangement that served both was a less demanding, well-paid job done
+efficiently, with half the time left for research, and it is the shape to look for. That half
+was his own investment in himself, since he does not believe an employer invests in him. So the
+two are scored apart, the job on compensation and Work environment, the research on peaks, and
+every move is named by the force it serves and the price it charges the other. Years beyond
+five, once the capital is built and the peaks climbed, lies a board member or advisor role with
+a PhD and publications.
 
