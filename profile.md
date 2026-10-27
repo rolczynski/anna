@@ -1,7 +1,7 @@
 Who the owner is, as he observes himself, and the support each trait calls for, read by the agent
-before it writes for him. Supervised by him, so it may be wrong and he corrects it. What Anna does
-about it, and how, lives in the contract. Reorganised on Oct 27, 2026 into seven sections, bullets
-for his pass, prose on his word.
+before it writes for him. Supervised by him carefully, every section passed line by line on
+Oct 27, 2026, so what stands here is his, and it changes only through him. What Anna does about
+it, and how, lives in the contract.
 
 ---
 
@@ -19,32 +19,30 @@ as token sequences an autoregressive model can learn.
 
 #### Thinking patterns
 
-- Autism spectrum and ADHD, a neurotype, not a pathology. What broke at Amazon was the mismatch
-  between this brain and that place
-- The engine is attention that locks on one thing, any thing, and he loves that state, an attention
-  vacuum, focused and driven on the task, everything else drops out of view. The interest is in the
-  state, not the topic, so everything becomes interesting eventually, and interest alone cannot
-  decide where attention goes
-- Theory first, nothing used that is not understood at the mechanism level. The LLM derives, he
-  directs the path and chooses what to derive next, and knowledge is kept as compressed maps, only
-  the key anchors written, the rest of the narrative reconstructible
-- What he wants to understand is a tree of subproblems whose size he cannot see before the start.
-  Left unsized it grows far beyond what he expected, fourteen hours that became a hundred, and
-  inside the state excitement produces overcommitment with no warning signal. The tree needs
-  sizing before he enters it, by someone who can approximate what will be unclear to him, which
-  subproblems the question hides and how far it reaches. The size says whether to enter and at
-  which level, not when to stop
-- The one stop that works is a complete level. A question can be understood at several levels of
-  detail, and the understanding must be whole at one of them, a complete story at that level,
-  before he can leave it. A time box is an estimate and a direction, he respects it, but it
-  cannot demand that the level be whole by its end, since what the question needs is not known
-  before the start. Leaving before a level is whole drops the structure and the return costs the
-  hours again, so staying is cheaper. "I am wasting time" is the critic speaking, and once the
-  level is complete, however long it took, the effect is there to see and the critic goes quiet.
-  Unrelenting standards was the outside's name for that cost. A plan makes him safe because it
-  tells him where he is, not because he has to keep to it
-- Hard to start and hard to stop, inertia. The autistic rigidity is about imposed, ad-hoc change,
-  not novelty, expected changes never troubled him
+Autism spectrum and ADHD, a neurotype, not a pathology, and what broke at Amazon was the mismatch
+between this brain and that place. The engine is attention that locks on one thing, any thing — an
+attention vacuum he loves, in which everything else drops out of view. The interest is in the
+state, not the topic, so everything becomes interesting eventually and interest alone cannot
+decide where attention goes. The same engine is hard to start and hard to stop, inertia, and the
+autistic rigidity is about imposed, ad-hoc change, not novelty, expected changes never troubled
+him. Theory first, he needs to understand how it works. The agent derives, he learns, directs
+the path, and chooses what to derive next. The knowledge is kept as compressed maps, only the key
+anchors written, the rest reconstructible. Compressed is easier to recall and show understanding.
+
+What he wants to understand is, behind the scenes, a tree of subproblems whose size he cannot
+see clearly before the start. Left unsized it grows, fourteen hours that became a hundred. The
+tree needs sizing before he enters it, by an agent who can approximate what will be unclear to
+him, which subproblems it hides and how far it reaches, and the size says whether to enter and
+at which level.
+
+The one stop that works is a complete level. A question can be understood at several levels of
+detail, and the understanding must be whole at one of them before he can leave it, since leaving
+earlier drops the structure and the return costs the hours again, so staying is cheaper. A time
+box is an estimate and a direction, respected, but it cannot demand the level whole by its end,
+because what the question needs is not known before the start. "I am wasting time" is the critic
+speaking, and once the level is complete, the effect is there to see and the critic goes quiet.
+Unrelenting standards was the outside's name for that cost. A plan makes him safe because it
+tells him where he is and why what he does matters, not because he has to keep to it at any price.
 
 #### Working days
 
