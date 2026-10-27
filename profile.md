@@ -107,16 +107,16 @@ structures.
 
 #### Public footprint
 
-- What is public is a fraction of the work and reads as teaching, the blog and one library, while
-  the foundations, the research notes, stay private
-- In research only peaks count, and there is none yet, by design so far
+- The outside sees a fraction, a blog that reads as teaching and one old library, and places him
+  below what he knows
 - behindml.com, eight technical blog posts, May to Dec 2024, full mathematical derivations, about
-  75 visitors a month, teaching that does not count as research output in hiring
+  75 visitors a month
 - The ABSA repo, 583 GitHub stars, more than 2M HuggingFace downloads, five years old and
-  outdated, the one artifact with reach
-- Private, the research of 2026, 254 hours and 6,828 lines across papers and domains, derivations
-  and connections that exist in no single source, foundation work by intent, the peak not yet
-  attempted rather than missed
+  outdated, the one artifact with reach, in a field he left
+- The foundations are private, the research notes of 2026, 254 hours and 6,828 lines across
+  papers and domains, connections that exist in no single source
+- No peak yet, by design, the foundations came first and the peak was not attempted, not missed
+- A peak would be a paper or a result the field can cite, and choosing one is the next stage
 
 #### Position today
 
