@@ -25,9 +25,12 @@ attention vacuum he loves, in which everything else drops out of view. The inter
 state, not the topic, so everything becomes interesting eventually and interest alone cannot
 decide where attention goes. The same engine is hard to start and hard to stop, inertia, and the
 autistic rigidity is about imposed, ad-hoc change, not novelty, expected changes never troubled
-him. Theory first, he needs to understand how it works. The agent derives, he learns, directs
-the path, and chooses what to derive next. The knowledge is kept as compressed maps, only the key
-anchors written, the rest reconstructible. Compressed is easier to recall and show understanding.
+him. Theory first, he understands through mechanism, the cause behind an effect, what depends on
+what, the analogy to something already understood, and a claim without one does not land. The
+agent derives, he learns, directs the path, and chooses what to derive next. The knowledge is
+kept as compressed maps, only the key anchors written, the rest reconstructible. Compressed is
+easier to recall, and only what is understood compresses, so words go where his uncertainty is,
+to the key details and the building blocks of the story, none to what is already easy for him.
 
 What he wants to understand is, behind the scenes, a tree of subproblems whose size he cannot
 see clearly before the start. Left unsized it grows, fourteen hours that became a hundred. The
@@ -38,11 +41,12 @@ at which level.
 The one stop that works is a complete level. A question can be understood at several levels of
 detail, and the understanding must be whole at one of them before he can leave it, since leaving
 earlier drops the structure and the return costs the hours again, so staying is cheaper. A time
-box is an estimate and a direction, respected, but it cannot demand the level whole by its end,
-because what the question needs is not known before the start. "I am wasting time" is the critic
-speaking, and once the level is complete, the effect is there to see and the critic goes quiet.
-Unrelenting standards was the outside's name for that cost. A plan makes him safe because it
-tells him where he is and why what he does matters, not because he has to keep to it at any price.
+box is a stop. Reached with the level not whole, it is the moment to trim the tree to a level at
+which the story is still whole, rather than follow it far beyond what was planned, since what the
+question needed was not known at the start. "I am wasting time" is the critic speaking, and once
+the level is complete, the effect is there to see and the critic goes quiet. Unrelenting
+standards was the outside's name for that cost. A plan makes him safe because it tells him where
+he is and why what he does matters, not because he has to keep to it at any price.
 
 #### Working days
 
@@ -89,16 +93,14 @@ tells him where he is and why what he does matters, not because he has to keep t
 
 #### Position today
 
-- The portfolio is about 2.27 million PLN in Oct 2026, an earlier count 2.15 with real estate at
-  1.29 and stocks at 0.82, near financial independence; the target is a third each, companies,
-  the index IWDA, safe, which is flats with minimal bonds and cash
-- Rental income of 5,400 PLN a month covers about 54% of living costs of 10,000 a month; the burn
-  without employment is about 4,600 a month from savings, and the constraint is not wanting to
-  deplete capital
+- The portfolio is 2.27 million PLN as of Oct 10, 2026, real estate 1.29, stocks 0.90, cash 0.08,
+  near financial independence
+- Rental income of 5,400 PLN a month covers about 54% of living costs of 10,000 a month, the rest
+  goes from cash savings
 - Based in Gdańsk, Poland; prefers remote, would relocate for the right role; needs visa
   sponsorship for the US, remote EU is the low-friction path
-- A baby is planned with his wife, said Oct 26, 2026, and a US move is easier in the coming months
-  than later, the gate closes or narrows after; the strongest clock in this file
+- A baby is planned, and a US move is easier in the coming months
+  than years
 - Leaving Amazon on his own letter, employed to Dec 31, 2026, the Polly project to Nov 13, notice
   Nov 16, garden leave after
 
