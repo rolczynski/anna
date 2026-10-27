@@ -8,10 +8,13 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 
 - Bridges research and engineering, derives from first principles and ships to millions
 - Seven years in audio and speech ML across production systems and frontier research
-- A theory-first researcher who invests in fundamentals, probability for 27 months, linear algebra
-  for 18, with derivation depth across the full ML stack, not surface familiarity
-- The practice boundary: DPO used hands-on at Amazon and Mirelo; RLHF, PPO and GRPO at derivation
-  depth only, the preparation gap for RL-heavy roles
+- A researcher without papers and without credentials. Theory first, with derivation depth across
+  the ML stack, probability for 27 months, linear algebra for 18, and the evidence is the work
+  itself, the derivations, the blog, ABSA, the systems shipped
+- Since agents, most of MLOps and the engineering of a system is done by agents, and the human's
+  place has moved up the stack, the design, the supervision of the critical logic, the choice of
+  what to derive and what to build. Seven years on both halves is what makes that supervision
+  competent, the bridge is now the whole job
 - Seven years of audio generative modeling is one problem shape, representing a continuous,
   structured, non-text modality as token sequences an autoregressive model can learn
 - RVQ tokenization, codec language modeling, RQ-Transformers, post-training on an 18B multimodal
