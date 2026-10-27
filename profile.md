@@ -159,9 +159,9 @@ work in.
   scientist; honest research pays little and asks for credentials he does not have; independent
   research is possible near financial independence and has no peers and no label
 - The model that once balanced them was a less demanding, well-paid job done efficiently, with
-  half the time at least left for research, and at the pay goal that model may not exist
-- He does not believe an employer invests in him, and he may be wrong; the big corp label helps
-  on the capital side, the market decides the rest, and the market is tough now
+  half the time at least left for research; he does not believe an employer invests in him
 - Neither force resolves the other. The job is scored on compensation and Environment, the
-  research on peaks, and the balance is struck move by move
-- Years beyond five, a board member or advisor role, on the far side of both forces
+  research on peaks, and the balance is kept move by move
+- Years beyond five, a board member or advisor role with a PhD and publications, on the far side
+  of both forces
+
