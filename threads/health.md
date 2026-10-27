@@ -14,9 +14,9 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
   line on the sheet is carried over from earlier visits, not a gate on the test
 - The entry "October 2026: Rereading the Standards" stands in health.md as nine bullets since
   Oct 27 for the owner's cuts, then "write", self-observation only, the judge and the engine, the
-  vacuum loved for the state and not the topic, the clock not felt, the verdict from outside at the
-  clock and from inside when the layers grow and the loaded structure cannot be dropped, the plan
-  as position and not clock. It corrects two bullets of profile.md's Mind section, the standards
+  vacuum loved for the state and not the topic, the clock not felt, the verdict inside the block
+  when the layers grow and the loaded structure cannot be dropped, fading afterwards when the value
+  shows, the plan as position and not clock. It corrects two bullets of profile.md's Mind section, the standards
   and the one dial, in his pass
 - Anna's task for later, the owner's word of Oct 27: how to handle time and plans given the
   rereading, sequence and dates in the plan and durations out of it, the stop on the structure and
