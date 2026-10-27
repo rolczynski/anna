@@ -58,7 +58,9 @@ investment choice, property on credit, the index, or picking companies, days spe
 story; open source as the conviction of the last days, "the biggest return, the priority toward a
 million", mechanism not yet stated; the website behindml to rebuild with agents; the knowledge
 base as the foundation; and a mass of small tasks. The owner's own reading: alone he spends his
-time computing the gradient and rarely steps.
+time computing the gradient and rarely steps. His contacts, rafal.rolczynski@gmail.com,
+linkedin.com/in/rafal-rolczynski, behindml.com; his knowledge inventory is
+machine-learning/agent/index.md, the thing to read before claiming what he knows.
 
 The design, agreed Oct 26 and standing in user.md for the owner's cuts. Anna is one agent in two
 modes. The collector runs unattended, morning and evening, read-only, and records, never reasons

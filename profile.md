@@ -6,25 +6,16 @@ contract. Reorganised on Oct 27, 2026 into seven sections, bullets for his pass,
 
 #### Professional identity
 
-- Bridges research and engineering, derives from first principles and ships to millions
-- Seven years in audio and speech ML across production systems and frontier research
-- A researcher without papers and without credentials. Theory first, with derivation depth across
-  the ML stack, probability for 27 months, linear algebra for 18, and the evidence is the work
-  itself, the derivations, the blog, ABSA, the systems shipped
-- Since agents, most of MLOps and the engineering of a system is done by agents, and the human's
-  place has moved up the stack, the design, the supervision of the critical logic, the choice of
-  what to derive and what to build. Seven years on both halves is what makes that supervision
-  competent, the bridge is now the whole job
-- Seven years of audio generative modeling is one problem shape, representing a continuous,
-  structured, non-text modality as token sequences an autoregressive model can learn
-- RVQ tokenization, codec language modeling, RQ-Transformers, post-training on an 18B multimodal
-  model, the mechanics and not the domain
-- Any new structured output domain, design trees, code, actions, is the same problem with a
-  different tokenizer; nobody has direct experience in domains that did not exist, everyone
-  transfers, and audio people live in the tokenization of odd modalities. This is the pitch for
-  every non-audio role
-- The knowledge inventory is machine-learning/agent/index.md
-- Contacts: rafal.rolczynski@gmail.com, linkedin.com/in/rafal-rolczynski, behindml.com
+He bridges research and engineering, derives from first principles and ships to millions, seven
+years in audio and speech ML across production systems and frontier research. A researcher without
+papers and without credentials. Theory first, with derivation depth across the ML stack,
+probability for 27 months, linear algebra for 18, and the evidence is the work itself, the
+derivations, the blog, Amazon. Since agents, most of the engineering is done by agents, and the
+human's place has moved up the stack, the design, the supervision of the critical logic, the
+choice of what to derive and what to build. Seven years on both halves is what makes that
+supervision competent, the bridge is now the whole job. And seven years of audio generative
+modeling is one problem shape, representing a continuous, structured, non-text modality as token
+sequences an autoregressive model can learn.
 
 #### Thinking patterns
 
