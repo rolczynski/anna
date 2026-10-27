@@ -16,8 +16,8 @@ private-notes advisor's map on Oct 27, the pending lines as they stood.
   Oct 27 for the owner's cuts, then "write", self-observation only, the judge and the engine, the
   vacuum loved for the state and not the topic, the clock not felt, the verdict from outside at the
   clock and from inside when the layers grow and the loaded structure cannot be dropped, the plan
-  as position and not clock. It corrects two bullets of profile.md's Mind section, the standards and the one dial, in
-  his pass
+  as position and not clock. It corrects two bullets of profile.md's Mind section, the standards
+  and the one dial, in his pass
 - Anna's task for later, the owner's word of Oct 27: how to handle time and plans given the
   rereading, sequence and dates in the plan and durations out of it, the stop on the structure and
   not on him, the measure output and not hours, as a decision file once the entry is written and
