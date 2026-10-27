@@ -119,15 +119,12 @@ next stage.
 
 #### Position today
 
-- The portfolio is 2.27 million PLN as of Oct 10, 2026, real estate 1.29, stocks 0.90, cash 0.08,
-  near financial independence
-- Rental income of 5,400 PLN a month covers about 54% of living costs of 10,000 a month, the rest
-  goes from cash savings
-- Based in Gdańsk, Poland; prefers remote, would relocate for the right role; needs visa
-  sponsorship for the US, remote EU is the low-friction path
-- A baby is planned, and a US move is easier in the coming months than years
-- Leaving Amazon on his own letter, employed to Dec 31, 2026, the Polly project to Nov 13, notice
-  Nov 16, garden leave after
+The portfolio is 2.27 million PLN as of Oct 10, 2026, real estate 1.29, stocks 0.90, cash 0.08,
+near financial independence. Rental income of 5,400 PLN a month covers about 54% of living costs
+of 10,000 a month, and the rest goes from cash savings. Based in Gdańsk, Poland, he prefers
+remote and would relocate for the right role, the US needs visa sponsorship, so remote EU is the
+low-friction path. A baby is planned, and a US move is easier in the coming months than years. He
+is leaving Amazon, employed to Dec 31, 2026.
 
 #### Career direction
 
