@@ -50,28 +50,28 @@ he is and why what he does matters, not because he has to keep to it at any pric
 
 #### Working days
 
-Two four-hour blocks, morning and afternoon, five days a week. One thread per day since
-mixing threads within a day costs willpower and feels unpleasant. A new thread is a ramp of about
-two hours before depth, yesterday's resumes in fifteen minutes. The morning is the natural reset
-point and a second topic in the afternoon drains motivation, so a forced switch, a change of
-thread that a deadline or an event imposes rather than his choice, goes in the morning, named the
+Two four-hour blocks, morning and afternoon, five days a week. One thread per day since mixing
+threads within a day costs willpower and feels unpleasant. A new thread is a ramp of about two
+hours before depth, yesterday's resumes in fifteen minutes. The morning is the natural reset point
+and a second topic in the afternoon drains motivation, so a forced switch, a change of thread
+that a deadline or an event imposes rather than his choice, goes in the morning, named the
 evening before. Admin and shallow tasks are hard to start, no depth or pleasure on the horizon,
-only pain if delayed.
-
-What is outside the current thread gets no attention at all, not less, so it drifts until
-external pressure or a deadline brings it in, whatever its importance. Papers and new research
-directions are the tops of mountains, reached only by thinking the thing through, building
-bottom up.
+only pain if delayed. What is outside the current thread gets no attention at all, not less, so
+it drifts until external pressure or a deadline brings it in, whatever its importance. Papers
+and new research directions are the tops of mountains, reached only by thinking the thing
+through, building bottom up.
 
 #### Assistant help
 
-What Rafal needs is an assistant, the complement that holds what the thread of the day does not.
+What Rafal needs is an assistant, the companion that holds what the thread of the day does not.
 Someone to discuss priorities and options with, which thread and which question come next, given
 the whole of his situation, his goals and the world around him. Someone to plan the execution
-and work on it in parallel, without supervision, since the planning must be fully delegated, he
-does not know what he does not know and must rely on the wider knowledge the assistant has, the
-tree sized, the level chosen, the intermediate steps written, so the plan can tell him where he
-is, and simulations run on how it can work.
+and work on it in parallel, without supervision. The planning must be fully delegated, he does
+not know what he does not know and must rely on the wider knowledge the assistant has. The tree
+is sized, the level chosen, the intermediate steps written, so the plan can tell him where he is.
+The plan is rehearsed before he enters it, rolled out with an agent that approximates his
+knowledge and his behaviour, so the size and the unclear parts are seen from his side, not a
+generic reader's.
 
 Someone to evaluate progress along the way, tracking on its own initiative and not on his call,
 how far the tree has run, and after, what the work produced, closing the loop, which parts of the
