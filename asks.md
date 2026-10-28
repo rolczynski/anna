@@ -14,9 +14,12 @@ in and out, the cadence, the name. The assumptions, the options considered and t
 stand as bullets for the owner to cut, and the same design stands as bullets in user.md, his
 file, where it becomes prose on his word. Open: the owner's cuts, then the first version in a week.
 
-**2026-10-27-the-world-connections.md** — ask, to collect. How Anna reads Gmail, Google Calendar
+**2026-10-27-the-world-connections.md** — ask, collected. How Anna reads Gmail, Google Calendar
 and LinkedIn without being able to act, the owner's question of Oct 27 with his answers, one
-Google account, LinkedIn by the August design, connect and test before writing. The places to
-read are the Claude Code permission and MCP docs, three community servers, Google's read-only
-scopes and the calendar's secret address, the August LinkedIn entry. Findings pending; they feed
-the execution brief and the user.md section.
+Google account, LinkedIn by the August design, connect and test before writing. Findings: one
+maintained server, taylorwilsdon/google_workspace_mcp, reads both with Google's read-only scopes
+and no write tools, but needs uv and an OAuth app that stays in Testing mode, whose tokens expire
+every seven days, a weekly sign-in by the owner; the calendar alone has a no-OAuth read path, its
+secret iCal address, no expiry, one address per calendar, resettable; an IMAP app password would
+avoid the weekly sign-in at the price of a credential that can delete. Open: the owner's choice of
+path for Gmail, then the execution brief and the user.md section.
