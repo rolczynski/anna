@@ -53,6 +53,7 @@
       "Bash(git -C /Users/rafalrol/Projects/machine-learning log*)",
       "Bash(git -C /Users/rafalrol/Projects/amazon log*)",
       "Bash(python3 /Users/rafalrol/Projects/anna/tools/widthcheck.py *)",
+      "Bash(uvx workspace-mcp *)",
       "Bash(mkdir *)",
       "Bash(mv *)",
       "Bash(cp *)",
