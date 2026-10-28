@@ -1,0 +1,51 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "permissions": {
+    "defaultMode": "dontAsk",
+    "allow": [
+      "Read(//Users/rafalrol/Projects/**)",
+      "Read(//Users/rafalrol/.anna/calendar.ics)",
+      "Edit(//Users/rafalrol/Projects/anna/**)",
+      "mcp__google_workspace__search_gmail_messages",
+      "mcp__google_workspace__get_gmail_message_content",
+      "mcp__google_workspace__get_gmail_messages_content_batch",
+      "mcp__google_workspace__get_gmail_thread_content",
+      "mcp__google_workspace__get_gmail_threads_content_batch",
+      "mcp__google_workspace__list_gmail_labels"
+    ],
+    "deny": [
+      "Bash",
+      "Monitor",
+      "WebFetch",
+      "WebSearch",
+      "Agent",
+      "SendMessage",
+      "Artifact",
+      "NotebookEdit",
+      "mcp__google_workspace__send_gmail_message",
+      "mcp__google_workspace__draft_gmail_message",
+      "mcp__google_workspace__modify_gmail_message_labels",
+      "mcp__google_workspace__batch_modify_gmail_message_labels",
+      "mcp__google_workspace__manage_gmail_label",
+      "mcp__google_workspace__manage_gmail_filter",
+      "mcp__google_workspace__list_gmail_filters",
+      "mcp__google_workspace__get_gmail_attachment_content",
+      "mcp__google_workspace__start_google_auth",
+      "mcp__playwright__*",
+      "Read(//Users/rafalrol/.anna/google_client_secret.json)",
+      "Read(//Users/rafalrol/.anna/google_credentials/**)",
+      "Edit(//Users/rafalrol/Projects/anna/.claude/**)",
+      "Edit(//Users/rafalrol/Projects/anna/.mcp.json)",
+      "Edit(//Users/rafalrol/Projects/anna/collector/**)",
+      "Edit(//Users/rafalrol/Projects/anna/.git/**)",
+      "Edit(//Users/rafalrol/Projects/private-notes/**)",
+      "Edit(//Users/rafalrol/Projects/amazon/**)",
+      "Read(//Users/rafalrol/Projects/amazon/**)",
+      "Edit(//Users/rafalrol/Projects/machine-learning/**)",
+      "Edit(//Users/rafalrol/.anna/**)",
+      "Edit(//Users/rafalrol/.claude/**)",
+      "Edit(//tmp/**)",
+      "Edit(//private/tmp/**)"
+    ]
+  }
+}

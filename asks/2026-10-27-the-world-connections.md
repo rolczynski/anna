@@ -1,7 +1,9 @@
 # Ask — the world connections, read-only
 
-Date: 2026-10-27. Status: collected, the owner's choice of path pending, then an execution brief,
-the logins and approvals stay with the owner.
+Date: 2026-10-27. Status: collected, the path chosen Oct 27, Gmail through the read-only MCP
+server with a weekly sign-in, the calendar through its secret iCal address fetched by the run
+script, uv installed. The setup is drafted Oct 28 in .mcp.json, collector/settings.json and
+tasks/world-connections.md, the owner's Google steps and the first sign-in pending.
 
 ## The question
 

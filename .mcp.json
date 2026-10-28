@@ -1,0 +1,22 @@
+{
+  "mcpServers": {
+    "google_workspace": {
+      "command": "/opt/homebrew/bin/uvx",
+      "args": [
+        "workspace-mcp",
+        "--tools",
+        "gmail",
+        "--read-only",
+        "--transport",
+        "stdio",
+        "--single-user"
+      ],
+      "env": {
+        "GOOGLE_CLIENT_SECRET_PATH": "/Users/rafalrol/.anna/google_client_secret.json",
+        "WORKSPACE_MCP_CREDENTIALS_DIR": "/Users/rafalrol/.anna/google_credentials",
+        "USER_GOOGLE_EMAIL": "rafal.rolczynski@gmail.com",
+        "OAUTHLIB_INSECURE_TRANSPORT": "1"
+      }
+    }
+  }
+}
